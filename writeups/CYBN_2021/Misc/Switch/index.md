@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** Switch
 >
@@ -18,3 +19,4 @@
 Suffisait simplement d'aller faire une petite partie **de Smash Bros** ou **une coupe Mario Kart** avec le staff.
 
 **Le flag : ? (*si quelqu'un l'a, qu'il me mp, je ne l'ai pas fait*)**
+{% endraw %}

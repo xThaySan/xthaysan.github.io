@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** Jakads
 >
@@ -144,3 +145,4 @@ jcbmsnqyccccviuilijenyoqxyzebavecgmbwijgfvxhyjjrdfyfbixpktoyjipuxgqgkedunhxurxob
 On trouve le flag à l'intérieur de la sortie
 
 **Le flag : CYBN{N0t_My_kinD_oF_Mu51c_3ithEr}**
+{% endraw %}

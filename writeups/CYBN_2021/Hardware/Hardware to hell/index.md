@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** Hardware to hell
 >
@@ -68,3 +69,4 @@ print(''.join([chr(int(i[-1:]+i[:-1],2)) for i in bin_cipher]))
 ```
 Output: CYBN{1'm_0n_th3_H1ghw4y_to_h3lL}
 ```
+{% endraw %}

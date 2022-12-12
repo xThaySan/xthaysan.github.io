@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** The Office
 >
@@ -83,3 +84,4 @@ On ouvre un site qui permet de décoder le morse, ici **[morsedecoder.com](https
 ![Morse décodé sur morsedecoder.com](images/flag.png)
 
 **Le flag : CYBN{M0RSEC0DE1SFUNBUTEV3NBETTERW1THSTEG4N0}**
+{% endraw %}

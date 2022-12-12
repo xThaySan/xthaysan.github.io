@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** Now you mew me 🐱
 >
@@ -32,3 +33,4 @@ Si l'on fouille un peu les fichier, on tombe sur **/word/media/image10.jpg** :
 ![Image du flag](images/flag.png)
 
 **Le flag : CYBN{C_M0N_CH4T_L3_FL4G}**
+{% endraw %}

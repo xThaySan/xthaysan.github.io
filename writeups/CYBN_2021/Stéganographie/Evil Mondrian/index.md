@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** Evil Mondrian
 >
@@ -84,3 +85,4 @@ print(text)
 ```
 Output: CYBN{MoSt_SignIfiC4nT_BiT_sT3g4n0grAPhY_iS_n0t_A_gOo0D_IDe4}
 ```
+{% endraw %}

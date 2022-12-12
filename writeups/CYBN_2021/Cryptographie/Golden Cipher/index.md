@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** Golden Cipher
 >
@@ -68,3 +69,4 @@ with open('./chall.png', 'wb') as f:
 ![Fichier déchiffré](images/chall.png)
 
 **Le flag : CYBN{3uClId3_Le_BoSs_D3s_N0mbR3s}**
+{% endraw %}

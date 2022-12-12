@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** Crackme
 >
@@ -28,3 +29,4 @@ Premier réflexe, regarder les chaînes définies, on y cherche un truc ressembl
 
 On y découvre celle-ci :
 **"CYBN{H0w_34sy_do3s_th1s_gets?}"**
+{% endraw %}

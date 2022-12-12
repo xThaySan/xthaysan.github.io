@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** Remote Cube Execution 2/2
 >
@@ -281,3 +282,4 @@ Plus qu'à tenter la commande **`/flag`** sur le serveur :
 ## Enjoy
 
 ![Serveur flagged](images/flagged.png)
+{% endraw %}

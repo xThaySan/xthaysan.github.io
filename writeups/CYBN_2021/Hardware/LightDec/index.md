@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** LightDec
 >
@@ -28,3 +29,4 @@ On recentre un peu tout ça pour voir le flag au complet :
 ![FLAG](images/flag.png)
 
 **Le flag : CYBN{l453r_3n6R4v3d_fL46}**
+{% endraw %}

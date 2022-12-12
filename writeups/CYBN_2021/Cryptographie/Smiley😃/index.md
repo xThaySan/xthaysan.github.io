@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** Smiley😃
 >
@@ -62,3 +63,4 @@ with open('./flag.txt', 'wb') as f:
 ```
 
 **Le flag : CYBN{😮_4V3_un1c0d3_🧮}**
+{% endraw %}

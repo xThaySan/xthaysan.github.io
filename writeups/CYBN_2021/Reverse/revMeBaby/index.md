@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** revMeBaby
 >
@@ -434,3 +435,4 @@ for solution in solutions:
 ```
 Output: CYBN{TR35C0N7R41GN4N7}
 ```
+{% endraw %}

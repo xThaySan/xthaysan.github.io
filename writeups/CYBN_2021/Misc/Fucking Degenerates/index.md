@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** Fucking Degenerates
 >
@@ -172,3 +173,4 @@ On a plus qu'à suivre le lien pour tomber sur cette image :
 ![Le flag](images/flag.jfif)
 
 **Le flag : CYBN{d363n3r473_l1k3_y0u_b3l0n6_0n_4_cr055}**
+{% endraw %}

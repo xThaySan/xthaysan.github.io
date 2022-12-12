@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** LoremIpsum_v2
 >
@@ -36,3 +37,4 @@ On obtient un long texte, **du lorem ipsum**, cependant si l'on prend le temps d
 ![Flag dans le texte récupéré](images/flag.png)
 
 **Le flag : CYBN{vr41m3n7_p45_7r35_b0n_4ux_3ch3c5_m415_l3_l060d3n_b1n10u_c0mp3n53}**
+{% endraw %}

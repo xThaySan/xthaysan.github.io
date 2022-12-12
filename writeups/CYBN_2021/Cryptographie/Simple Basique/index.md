@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** Simple Basique
 >
@@ -66,3 +67,4 @@ Output: CYBN{f1nfr3r0t_tu_es_gr1ng3}
 ```
 
 **Le flag : CYBN{f1nfr3r0t_tu_es_gr1ng3}**
+{% endraw %}

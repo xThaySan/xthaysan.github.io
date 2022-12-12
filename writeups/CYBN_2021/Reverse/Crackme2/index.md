@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** Crackme2
 >
@@ -322,3 +323,4 @@ print(''.join(a))
 ```
 Output: CYBN{fr0m_r0m4n_d1c7470r_70_4_fuck1n6_54l4d}
 ```
+{% endraw %}

@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** Obfuscation
 >
@@ -92,3 +93,4 @@ Comme le site est magnifique, je le fait ici en désactivant le JS :
 ![Page de flag](images/flag.png)
 
 On y trouve notre flag dans l'html de la page en hidden : **CYBN{Omniscience_Offusquée_Mal_Dirigée}**
+{% endraw %}

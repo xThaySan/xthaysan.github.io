@@ -1,3 +1,4 @@
+{% raw %}
 # Write-Up
 > **title:** Send Meme
 >
@@ -20,3 +21,4 @@ Bon il suffit d'aller sur le **discord de CyberNight**, channel **#meme** :
 ![Channel du discord](images/discord.png)
 
 **Le flag : CYBN{S3nd_M3m3_Plz}**
+{% endraw %}
