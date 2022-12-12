@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# EFREI-CyberNight 2021
+# EFREI-CyberNight 2022
 
-![Affiche](images/affiche.jpg)
+![Affiche](images/affiche.png)
 
 Du 11 au 12 décembre, près de 200 étudiants de l’Efrei participeront à la CyberNight, un rendez-vous unique de la cybersécurité sur le campus.
 
