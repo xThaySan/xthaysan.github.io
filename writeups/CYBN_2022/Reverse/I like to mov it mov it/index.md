@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: I like to mov it mov it
+category: Reverse
+point: 300
+files: ['ILikeToMoveIt']
+---
 
 {% raw %}
-# Write-Up
 > **title:** I like to mov it mov it
 >
 > **category:** Reverse
@@ -9,7 +16,7 @@
 >
 > **point:** 300
 >
-> **author:** m00n
+> **author:** I
 >
 > **description:**
 >
@@ -17,7 +24,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

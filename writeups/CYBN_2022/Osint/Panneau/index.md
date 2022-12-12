@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Panneau
+category: Osint
+point: 25
+files: []
+---
 
 {% raw %}
-# Write-Up
 > **title:** Panneau
 >
 > **category:** Osint
@@ -9,17 +16,16 @@
 >
 > **point:** 25
 >
-> **author:** L'exploratrice
+> **author:** a
 >
 > **description:**
 >
 > Dans quel pays se trouve cette pancarte ?
 >
-> ![panneau.png](/files/23da61478fe0416ead7dc2bfbc57c033/panneau.png)
+> ![panneau.png](images/panneau.png)
 >
 > Le flag que vous allez trouver n'est pas au format CYBN Vous pouvez l'ajouter entre CYBN{}
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

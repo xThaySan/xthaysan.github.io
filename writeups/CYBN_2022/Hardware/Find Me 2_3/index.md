@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Find Me 2/3
+category: Hardware
+point: 50
+files: []
+---
 
 {% raw %}
-# Write-Up
 > **title:** Find Me 2/3
 >
 > **category:** Hardware
@@ -9,7 +16,7 @@
 >
 > **point:** 50
 >
-> **author:** Maestran
+> **author:** k
 >
 > **description:**
 >
@@ -21,7 +28,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

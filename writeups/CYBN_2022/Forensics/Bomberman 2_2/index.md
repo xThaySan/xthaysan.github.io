@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Bomberman 2/2
+category: Forensics
+point: 50
+files: ['chall_partie_deux.zip']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Bomberman 2/2
 >
 > **category:** Forensics
@@ -9,7 +16,7 @@
 >
 > **point:** 50
 >
-> **author:** Marie-Jeanne
+> **author:** e
 >
 > **description:**
 >
@@ -27,7 +34,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

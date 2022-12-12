@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Vmdkk
+category: Forensics
+point: 150
+files: []
+---
 
 {% raw %}
-# Write-Up
 > **title:** Vmdkk
 >
 > **category:** Forensics
@@ -9,7 +16,7 @@
 >
 > **point:** 150
 >
-> **author:** m00n
+> **author:** *
 >
 > **description:**
 >
@@ -19,11 +26,10 @@
 >
 > [Téléchargez le challenge ici.](https://bit.ly/cybn-chall-encrypted-predl)  
 >
-> ![73o975.jpg](/files/316ca01b5e242c5f24a40ca679957d82/73o975.jpg)
+> ![73o975.jpg](images/73o975.jpg)
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

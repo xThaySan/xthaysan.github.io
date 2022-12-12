@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: class4
+category: Hardware
+point: 50
+files: ['class4.gcode']
+---
 
 {% raw %}
-# Write-Up
 > **title:** class4
 >
 > **category:** Hardware
@@ -9,7 +16,7 @@
 >
 > **point:** 50
 >
-> **author:** Langley
+> **author:** e
 >
 > **description:**
 >
@@ -17,7 +24,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

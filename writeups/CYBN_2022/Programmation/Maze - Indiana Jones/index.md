@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Maze - Indiana Jones
+category: Programmation
+point: 150
+files: ['maze.py']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Maze - Indiana Jones
 >
 > **category:** Programmation
@@ -9,13 +16,11 @@
 >
 > **point:** 150
 >
-> **author:** Maestran
+> **author:** '
 >
 > **description:**
 >
 > J'espère que tu connais bien Ariane, elle est toujours dans les bons filons..
->
-> 
 >
 > *vous êtes sortis avec le trésor !*
 >
@@ -25,7 +30,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

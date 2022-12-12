@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Timing
+category: Programmation
+point: 50
+files: ['timing.py']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Timing
 >
 > **category:** Programmation
@@ -9,7 +16,7 @@
 >
 > **point:** 50
 >
-> **author:** Maestran
+> **author:** D
 >
 > **description:**
 >
@@ -21,7 +28,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: J'aime les trains
+category: Osint
+point: 100
+files: []
+---
 
 {% raw %}
-# Write-Up
 > **title:** J'aime les trains
 >
 > **category:** Osint
@@ -9,7 +16,7 @@
 >
 > **point:** 100
 >
-> **author:** ???
+> **author:** n
 >
 > **description:**
 >
@@ -19,7 +26,6 @@
 >
 > [transmission-record.txt](/files/369ff4ca38c83a5e751595666379e9da/transmission-record.txt)
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

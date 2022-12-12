@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Drifting in the bits
+category: Steganography
+point: 50
+files: ['vrrrrm.mp3']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Drifting in the bits
 >
 > **category:** Steganography
@@ -9,15 +16,14 @@
 >
 > **point:** 50
 >
-> **author:** m00n
+> **author:** [
 >
 > **description:**
 >
-> ![vilebrequin-vilbrequin.gif](/files/2d8476883c354b68852ccf8df63df593/vilebrequin-vilbrequin.gif)
+> ![vilebrequin-vilbrequin.gif](images/vilebrequin-vilbrequin.gif)
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

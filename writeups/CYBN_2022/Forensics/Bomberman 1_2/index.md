@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Bomberman 1/2
+category: Forensics
+point: 50
+files: ['chall_partie_une.zip']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Bomberman 1/2
 >
 > **category:** Forensics
@@ -9,7 +16,7 @@
 >
 > **point:** 50
 >
-> **author:** Marie-Jeanne
+> **author:** a
 >
 > **description:**
 >
@@ -25,13 +32,10 @@
 >
 > Le flag est au format : CYBN{truc.muche@hotmail.fr_message-secret}
 >
-> 
->
 > *Ce challenge est un mélange d'osint, de stéganographie et de forensics*
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

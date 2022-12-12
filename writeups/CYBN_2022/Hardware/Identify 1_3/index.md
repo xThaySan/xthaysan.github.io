@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Identify 1/3
+category: Hardware
+point: 50
+files: []
+---
 
 {% raw %}
-# Write-Up
 > **title:** Identify 1/3
 >
 > **category:** Hardware
@@ -9,7 +16,7 @@
 >
 > **point:** 50
 >
-> **author:** ???
+> **author:** n
 >
 > **description:**
 >
@@ -25,7 +32,6 @@
 >
 > **Pas besoin d’aller demander la caméra au gardien.**
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

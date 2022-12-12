@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Auth3
+category: Reverse
+point: 200
+files: ['auth3']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Auth3
 >
 > **category:** Reverse
@@ -9,7 +16,7 @@
 >
 > **point:** 200
 >
-> **author:** m00n
+> **author:** o
 >
 > **description:**
 >
@@ -19,7 +26,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

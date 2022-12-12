@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Il s'est baissé... ou pas
+category: Cryptography
+point: 150
+files: ['encoded.png']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Il s'est baissé... ou pas
 >
 > **category:** Cryptography
@@ -9,7 +16,7 @@
 >
 > **point:** 150
 >
-> **author:** Langley
+> **author:** o
 >
 > **description:**
 >
@@ -23,7 +30,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

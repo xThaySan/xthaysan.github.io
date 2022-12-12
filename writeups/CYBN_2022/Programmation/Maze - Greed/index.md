@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Maze - Greed
+category: Programmation
+point: 50
+files: ['maze.py']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Maze - Greed
 >
 > **category:** Programmation
@@ -9,7 +16,7 @@
 >
 > **point:** 50
 >
-> **author:** Maestran
+> **author:** '
 >
 > **description:**
 >
@@ -23,7 +30,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

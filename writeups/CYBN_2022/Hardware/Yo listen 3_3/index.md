@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Yo listen 3/3
+category: Hardware
+point: 50
+files: []
+---
 
 {% raw %}
-# Write-Up
 > **title:** Yo listen 3/3
 >
 > **category:** Hardware
@@ -9,7 +16,7 @@
 >
 > **point:** 50
 >
-> **author:** Maestran
+> **author:** o
 >
 > **description:**
 >
@@ -23,7 +30,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

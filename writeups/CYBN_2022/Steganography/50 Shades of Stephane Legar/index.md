@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: 50 Shades of Stephane Legar
+category: Steganography
+point: 100
+files: ['images.zip']
+---
 
 {% raw %}
-# Write-Up
 > **title:** 50 Shades of Stephane Legar
 >
 > **category:** Steganography
@@ -9,15 +16,14 @@
 >
 > **point:** 100
 >
-> **author:** m00n
+> **author:** [
 >
 > **description:**
 >
-> ![Untitled.png](/files/ab752ea14ceac835b51fe7e88d31b1b3/Untitled.png)
+> ![Untitled.png](images/Untitled.png)
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

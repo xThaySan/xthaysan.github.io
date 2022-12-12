@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Chess Master
+category: Steganography
+point: 25
+files: ['bestgame.zip']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Chess Master
 >
 > **category:** Steganography
@@ -9,7 +16,7 @@
 >
 > **point:** 25
 >
-> **author:** Maestran
+> **author:** u
 >
 > **description:**
 >
@@ -17,7 +24,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

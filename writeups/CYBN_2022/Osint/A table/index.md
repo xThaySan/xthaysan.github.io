@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: A table
+category: Osint
+point: 50
+files: []
+---
 
 {% raw %}
-# Write-Up
 > **title:** A table
 >
 > **category:** Osint
@@ -9,7 +16,7 @@
 >
 > **point:** 50
 >
-> **author:** L'exploratrice
+> **author:** n
 >
 > **description:**
 >
@@ -19,7 +26,6 @@
 >
 > Le flag que vous allez trouver n'est pas au format CYBN Vous pouvez l'ajouter entre CYBN{}
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

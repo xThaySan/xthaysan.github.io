@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: ExFILEtration
+category: Cryptography
+point: 100
+files: ['chall.zip']
+---
 
 {% raw %}
-# Write-Up
 > **title:** ExFILEtration
 >
 > **category:** Cryptography
@@ -9,7 +16,7 @@
 >
 > **point:** 100
 >
-> **author:** Maestran
+> **author:** l
 >
 > **description:**
 >
@@ -17,7 +24,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

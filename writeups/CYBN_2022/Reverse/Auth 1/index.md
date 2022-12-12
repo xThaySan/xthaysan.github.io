@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Auth 1
+category: Reverse
+point: 25
+files: ['auth1']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Auth 1
 >
 > **category:** Reverse
@@ -9,7 +16,7 @@
 >
 > **point:** 25
 >
-> **author:** m00n
+> **author:** a
 >
 > **description:**
 >
@@ -19,7 +26,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

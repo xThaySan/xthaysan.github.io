@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Auth2
+category: Reverse
+point: 25
+files: ['auth2.py']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Auth2
 >
 > **category:** Reverse
@@ -9,7 +16,7 @@
 >
 > **point:** 25
 >
-> **author:** m00n
+> **author:** o
 >
 > **description:**
 >
@@ -19,7 +26,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

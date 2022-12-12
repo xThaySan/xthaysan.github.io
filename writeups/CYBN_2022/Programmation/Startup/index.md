@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Startup
+category: Programmation
+point: 10
+files: []
+---
 
 {% raw %}
-# Write-Up
 > **title:** Startup
 >
 > **category:** Programmation
@@ -9,7 +16,7 @@
 >
 > **point:** 10
 >
-> **author:** Maestran
+> **author:** '
 >
 > **description:**
 >
@@ -21,7 +28,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Magic
+category: Forensics
+point: 50
+files: ['catz.zip']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Magic
 >
 > **category:** Forensics
@@ -9,7 +16,7 @@
 >
 > **point:** 50
 >
-> **author:** Maestran
+> **author:** e
 >
 > **description:**
 >
@@ -21,7 +28,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

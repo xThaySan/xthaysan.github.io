@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Souvenir
+category: Forensics
+point: 25
+files: ['bretagne.jpg']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Souvenir
 >
 > **category:** Forensics
@@ -9,7 +16,7 @@
 >
 > **point:** 25
 >
-> **author:** Maestran
+> **author:** a
 >
 > **description:**
 >
@@ -20,8 +27,6 @@
 > A quel date a été prise cette photo ?  
 >
 > Et quel est le modèle du téléphone ?  
->
-> 
 >
 > Le flag doit être au format :
 >
@@ -43,7 +48,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

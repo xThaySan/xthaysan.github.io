@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Deviens champion sers toi de tout ce que tu as appris
+category: Steganography
+point: 50
+files: []
+---
 
 {% raw %}
-# Write-Up
 > **title:** Deviens champion sers toi de tout ce que tu as appris
 >
 > **category:** Steganography
@@ -9,7 +16,7 @@
 >
 > **point:** 50
 >
-> **author:** Lmeaou
+> **author:** e
 >
 > **description:**
 >
@@ -67,7 +74,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

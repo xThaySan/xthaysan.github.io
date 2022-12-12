@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Repeat
+category: Programmation
+point: 25
+files: []
+---
 
 {% raw %}
-# Write-Up
 > **title:** Repeat
 >
 > **category:** Programmation
@@ -9,7 +16,7 @@
 >
 > **point:** 25
 >
-> **author:** Maestran
+> **author:** i
 >
 > **description:**
 >
@@ -25,7 +32,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Et je tombe tombe tombe ...
+category: Misc
+point: 50
+files: ['et-je-tombe-tombe-tombe.zip']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Et je tombe tombe tombe ...
 >
 > **category:** Misc
@@ -9,15 +16,14 @@
 >
 > **point:** 50
 >
-> **author:** m00n
+> **author:** [
 >
 > **description:**
 >
-> ![jump-in-fail.gif](/files/7d502d9aae05a6456cf477802a13af88/jump-in-fail.gif)
+> ![jump-in-fail.gif](images/jump-in-fail.gif)
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

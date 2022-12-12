@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Spirale
+category: Steganography
+point: 25
+files: ['chall_stegano.png']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Spirale
 >
 > **category:** Steganography
@@ -9,7 +16,7 @@
 >
 > **point:** 25
 >
-> **author:** Marie-Jeanne
+> **author:** t
 >
 > **description:**
 >
@@ -17,7 +24,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

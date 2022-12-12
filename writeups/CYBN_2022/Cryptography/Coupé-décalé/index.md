@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Coupé-décalé
+category: Cryptography
+point: 25
+files: ['coupe_decale.png']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Coupé-décalé
 >
 > **category:** Cryptography
@@ -9,7 +16,7 @@
 >
 > **point:** 25
 >
-> **author:** Marie-Jeanne
+> **author:** '
 >
 > **description:**
 >
@@ -19,7 +26,6 @@
 >
 > *Vous pouvez l'ajouter entre CYBN{}*
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

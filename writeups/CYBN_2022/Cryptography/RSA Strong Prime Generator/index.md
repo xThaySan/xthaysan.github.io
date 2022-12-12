@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: RSA Strong Prime Generator
+category: Cryptography
+point: 100
+files: ['out.txt', 'chall.py']
+---
 
 {% raw %}
-# Write-Up
 > **title:** RSA Strong Prime Generator
 >
 > **category:** Cryptography
@@ -9,7 +16,7 @@
 >
 > **point:** 100
 >
-> **author:** Maestran
+> **author:** J
 >
 > **description:**
 >
@@ -19,7 +26,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

@@ -20,6 +20,16 @@
 	</header>
 
 	<div class="container">
+		{% if page.type and page.type == "writeup" %}
+		<h1 id="main_informations">
+			[<span style="text-transform: uppercase">{{ page.category }}</span>] {{ page.title }} - {{ page.point }}pts
+		</h1>
+		<section id="downloads">
+			{% for file in page.files %}
+			<a href="files/{{ file }}" class="btn">{{ file }}</a>
+			{% endfor %}
+		</section>
+		{% endif %}
 		<section id="main_content">
 			{{ content }}
 		</section>

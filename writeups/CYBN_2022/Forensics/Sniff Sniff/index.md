@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Sniff Sniff
+category: Forensics
+point: 25
+files: ['chall-forensics1.pcap']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Sniff Sniff
 >
 > **category:** Forensics
@@ -9,7 +16,7 @@
 >
 > **point:** 25
 >
-> **author:** Maestran
+> **author:** 
 >
 > **description:**
 >
@@ -19,7 +26,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

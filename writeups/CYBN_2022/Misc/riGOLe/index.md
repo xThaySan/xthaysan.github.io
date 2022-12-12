@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: riGOLe
+category: Misc
+point: 50
+files: ['chall.rle']
+---
 
 {% raw %}
-# Write-Up
 > **title:** riGOLe
 >
 > **category:** Misc
@@ -9,7 +16,7 @@
 >
 > **point:** 50
 >
-> **author:** Maestran
+> **author:** '
 >
 > **description:**
 >
@@ -19,7 +26,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

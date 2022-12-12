@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Les Allemands... Mais oui !   Les Allemands !
+category: Cryptography
+point: 200
+files: ['debut.txt', 'chall.txt']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Les Allemands... Mais oui !   Les Allemands !
 >
 > **category:** Cryptography
@@ -9,7 +16,7 @@
 >
 > **point:** 200
 >
-> **author:** Maestran
+> **author:** 
 >
 > **description:**
 >
@@ -23,8 +30,6 @@
 >
 > Cela ne devrait pas être très compliqué de casser à nouveau ce chiffre avec vos compétences.
 >
-> 
->
 > ---
 >
 > Si vous trouvez une chaine :
@@ -35,7 +40,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

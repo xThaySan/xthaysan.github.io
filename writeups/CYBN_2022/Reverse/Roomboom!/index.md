@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Roomboom!
+category: Reverse
+point: 200
+files: ['Roomboom.exe']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Roomboom!
 >
 > **category:** Reverse
@@ -9,7 +16,7 @@
 >
 > **point:** 200
 >
-> **author:** ekt0
+> **author:** '
 >
 > **description:**
 >
@@ -21,7 +28,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Pyramide
+category: Steganography
+point: 50
+files: ['triforce.png']
+---
 
 {% raw %}
-# Write-Up
 > **title:** Pyramide
 >
 > **category:** Steganography
@@ -9,7 +16,7 @@
 >
 > **point:** 50
 >
-> **author:** Marie-Jeanne
+> **author:** l
 >
 > **description:**
 >
@@ -21,7 +28,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

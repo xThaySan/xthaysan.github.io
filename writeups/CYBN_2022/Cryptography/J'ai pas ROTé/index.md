@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: J'ai pas ROTé
+category: Cryptography
+point: 25
+files: []
+---
 
 {% raw %}
-# Write-Up
 > **title:** J'ai pas ROTé
 >
 > **category:** Cryptography
@@ -9,7 +16,7 @@
 >
 > **point:** 25
 >
-> **author:** Lmeaou
+> **author:** o
 >
 > **description:**
 >
@@ -19,7 +26,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

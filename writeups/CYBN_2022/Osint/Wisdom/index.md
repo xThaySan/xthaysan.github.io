@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Wisdom
+category: Osint
+point: 25
+files: []
+---
 
 {% raw %}
-# Write-Up
 > **title:** Wisdom
 >
 > **category:** Osint
@@ -9,7 +16,7 @@
 >
 > **point:** 25
 >
-> **author:** Maestran
+> **author:** W
 >
 > **description:**
 >
@@ -19,11 +26,10 @@
 >
 > Au format CYBN{numero_de_rue}
 >
-> ![wisdom.jpg](/files/503112ff2657d7c7c61e4fde306348d1/wisdom.jpg)
+> ![wisdom.jpg](images/wisdom.jpg)
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}

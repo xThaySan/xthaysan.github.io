@@ -1,6 +1,13 @@
+---
+layout: default
+type: writeup
+title: Tinder
+category: Misc
+point: 50
+files: []
+---
 
 {% raw %}
-# Write-Up
 > **title:** Tinder
 >
 > **category:** Misc
@@ -9,7 +16,7 @@
 >
 > **point:** 50
 >
-> **author:** Maestran
+> **author:** a
 >
 > **description:**
 >
@@ -23,7 +30,6 @@
 >
 > 
 
-
-# Coming Soon...
+## Coming Soon...
 
 {% endraw %}
