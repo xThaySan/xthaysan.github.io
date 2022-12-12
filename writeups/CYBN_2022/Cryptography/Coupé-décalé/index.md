@@ -1,0 +1,25 @@
+
+{% raw %}
+# Write-Up
+> **title:** Coupé-décalé
+>
+> **category:** Cryptography
+>
+> **difficulty:** Facile
+>
+> **point:** 25
+>
+> **author:** Marie-Jeanne
+>
+> **description:**
+>
+> J'espère que vous avez une bonne vue.
+>
+> *Le flag que vous allez trouver n'est pas au format CYBN*
+>
+> *Vous pouvez l'ajouter entre CYBN{}*
+
+
+# Coming Soon...
+
+{% endraw %}

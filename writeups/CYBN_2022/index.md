@@ -12,23 +12,82 @@ Quel que soit le niveau académique ou la formation, la cyber s’adresse à tou
 
 Au cours de cet événement marathon, les étudiants de l’école participeront à des challenges en cyber, assisteront à des conférences ou à des démos techniques et se formeront, en groupe, aux techniques de pentest (test d’intrusion). La CyberNight Efrei vise deux objectifs majeurs. En premier lieu, et dans la mesure où la cybersécurité est l’affaire de tous les professionnels du numérique, une telle opération permet de sensibiliser et de former aux bons réflexes cyber. Ensuite, les épreuves proposées permettront d’identifier les meilleurs étudiants cyber de l’école. Ils rejoindront l’équipe cyber étudiante de l’Efrei et participeront, durant une année entière, à des compétitions proposées par des organismes extérieurs à l’école (Le Hack, Le FIC,…).
 
-## Reverse
-- [](/writeups/CYBN_2022/)
-
-## pwn
-
-## Web
-
 ## Cryptography
+- [Coupé-décalé](/writeups/CYBN_2022/Cryptography/Coup%C3%A9-d%C3%A9cal%C3%A9/)
+- [ExFILEtration](/writeups/CYBN_2022/Cryptography/ExFILEtration/)
+- [Il s'est baissé... ou pas](/writeups/CYBN_2022/Cryptography/Il%20s'est%20baiss%C3%A9%20ou%20pas/)
+- [J'ai pas ROTé](/writeups/CYBN_2022/Cryptography/J'ai%20pas%20ROT%C3%A9/)
+- [Les Allemands... Mais oui ! Les Allemands !](/writeups/CYBN_2022/Cryptography/Les%20Allemands%20Mais%20oui%20!%20%20%20Les%20Allemands%20!/)
+- [RSA Strong Prime Generator](/writeups/CYBN_2022/Cryptography/RSA%20Strong%20Prime%20Generator/)
 
 ## Forensics
-
-## Programmation
-
-## OSINT
-
-## Steganography
-
-## MISC
+- [Bomberman 1/2](/writeups/CYBN_2022/Forensics/Bomberman%201_2/)
+- [Bomberman 2/2](/writeups/CYBN_2022/Forensics/Bomberman%202_2/)
+- [Magic](/writeups/CYBN_2022/Forensics/Magic/)
+- [Peu importe le chemin](/writeups/CYBN_2022/Forensics/Peu%20importe%20le%20chemin/)
+- [Sniff Sniff](/writeups/CYBN_2022/Forensics/Sniff%20Sniff/)
+- [Souvenir](/writeups/CYBN_2022/Forensics/Souvenir/)
+- [Thoses pesky sysadmins](/writeups/CYBN_2022/Forensics/thoses%20pesky%20sysadmins/)
+- [Vmdkk](/writeups/CYBN_2022/Forensics/Vmdkk/)
+- [Xray](/writeups/CYBN_2022/Forensics/Xray/)
 
 ## Hardware
+- [class4](/writeups/CYBN_2022/Hardware/class4/)
+- [Identify 1/3](/writeups/CYBN_2022/Hardware/Identify%201_3/)
+- [Find Me 2/3](/writeups/CYBN_2022/Hardware/Find%20Me%202_3/)
+- [Yo listen 3/3](/writeups/CYBN_2022/Hardware/Yo%20listen%203_3/)
+
+## MISC
+- [Et je tombe tombe tombe ...](/writeups/CYBN_2022/Misc/Et%20je%20tombe%20tombe%20tombe/)
+- [riGOLe](/writeups/CYBN_2022/Misc/riGOLe/)
+- [Roombaverse Simulator - Des yeux partout](/writeups/CYBN_2022/Misc/Roombaverse%20Simulator%20-%20Des%20yeux%20partout/)
+- [Roombaverse Simulator - Roomba tricheur](/writeups/CYBN_2022/Misc/Roombaverse%20Simulator%20-%20Roomba%20tricheur/)
+- [Survey](/writeups/CYBN_2022/Misc/Survey/)
+- [Tinder](/writeups/CYBN_2022/Misc/Tinder/)
+
+## OSINT
+- [A table](/writeups/CYBN_2022/Osint/A%20table/)
+- [Concerto](/writeups/CYBN_2022/Osint/Concerto/)
+- [Gimme_the_plant](/writeups/CYBN_2022/Osint/Gimme_the_plant/)
+- [J'aime les trains](/writeups/CYBN_2022/Osint/J'aime%20les%20trains/)
+- [La Banque](/writeups/CYBN_2022/Osint/La%20Banque/)
+- [Panneau](/writeups/CYBN_2022/Osint/Panneau/)
+- [Wisdom](/writeups/CYBN_2022/Osint/Wisdom/)
+
+## Programmation
+- [Maze - Coward](/writeups/CYBN_2022/Programmation/Maze%20-%20Coward/)
+- [Maze - Greed](/writeups/CYBN_2022/Programmation/Maze%20-%20Greed/)
+- [Maze - Indiana Jones](/writeups/CYBN_2022/Programmation/Maze%20-%20Indiana%20Jones/)
+- [Repeat](/writeups/CYBN_2022/Programmation/Repeat/)
+- [Startup](/writeups/CYBN_2022/Programmation/Startup/)
+- [Timing](/writeups/CYBN_2022/Programmation/Timing/)
+
+## pwn
+- [Functions madness](/writeups/CYBN_2022/pwn%20-%20Exploitation%20de%20binaires/Functions%20madness/)
+- [L'éternel](/writeups/CYBN_2022/pwn%20-%20Exploitation%20de%20binaires/L'%C3%A9ternel%20ret/)
+- [Mouais BOF](/writeups/CYBN_2022/pwn%20-%20Exploitation%20de%20binaires/Mouais%20BOF/)
+- [Turducken](/writeups/CYBN_2022/pwn%20-%20Exploitation%20de%20binaires/Turducken/)
+
+## Reverse
+- [Auth 1](/writeups/CYBN_2022/Reverse/Auth%201/)
+- [Auth 2](/writeups/CYBN_2022/Reverse/Auth2/)
+- [Auth 3](/writeups/CYBN_2022/Reverse/Auth3/)
+- [I like to mov it mov it](/writeups/CYBN_2022/Reverse/I%20like%20to%20mov%20it%20mov%20it/)
+- [Roombaverse Simulator - Cryptoroomba](/writeups/CYBN_2022/Reverse/Roombaverse%20Simulator%20-%20Cryptoroomba/)
+- [Roomboom!](/writeups/CYBN_2022/Reverse/Roomboom!/)
+- [TENET](/writeups/CYBN_2022/Reverse/TENET/)
+
+## Steganography
+- [50 Shades of Stephane Legar](/writeups/CYBN_2022/Steganography/50%20Shades%20of%20Stephane%20Legar/)
+- [Chess Master](/writeups/CYBN_2022/Steganography/Chess%20Master/)
+- [Deviens champion sers toi de tout ce que tu as appris](/writeups/CYBN_2022/Steganography/Deviens%20champion%20sers%20toi%20de%20tout%20ce%20que%20tu%20as%20appris/)
+- [Drifting in the bits](/writeups/CYBN_2022/Steganography/Drifting%20in%20the%20bits/)
+- [Pyramide](/writeups/CYBN_2022/Steganography/Pyramide/)
+- [Spirale](/writeups/CYBN_2022/Steganography/Spirale/)
+
+## Web
+- [Roombaverse - Ah bah c'est du propre](/writeups/CYBN_2022/Web/Roombaverse%20-%20Ah%20bah%20c'est%20du%20propre/)
+- [Roombaverse - Cooking Roomba](/writeups/CYBN_2022/Web/Roombaverse%20-%20Cooking%20Roomba/)
+- [Roombaverse - Leaderboard](/writeups/CYBN_2022/Web/Roombaverse%20-%20Leaderboard/)
+- [Roombaverse - Live](/writeups/CYBN_2022/Web/Roombaverse%20-%20Live/)
+- [Roombaverse - vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv](/writeups/CYBN_2022/Web/Roombaverse%20-%20vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv/)
