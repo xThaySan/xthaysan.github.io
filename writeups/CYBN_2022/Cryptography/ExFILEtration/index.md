@@ -16,7 +16,7 @@ files: ['chall.zip']
 >
 > **point:** 100
 >
-> **author:** l
+> **author:** Maestran
 >
 > **description:**
 >

@@ -16,7 +16,7 @@ files: ['timing.py']
 >
 > **point:** 50
 >
-> **author:** D
+> **author:** Maestran
 >
 > **description:**
 >

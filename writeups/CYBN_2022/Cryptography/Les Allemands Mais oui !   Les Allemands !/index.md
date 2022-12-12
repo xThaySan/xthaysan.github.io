@@ -16,7 +16,7 @@ files: ['debut.txt', 'chall.txt']
 >
 > **point:** 200
 >
-> **author:** 
+> **author:** Maestran
 >
 > **description:**
 >

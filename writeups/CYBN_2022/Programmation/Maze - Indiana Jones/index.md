@@ -16,7 +16,7 @@ files: ['maze.py']
 >
 > **point:** 150
 >
-> **author:** '
+> **author:** Maestran
 >
 > **description:**
 >

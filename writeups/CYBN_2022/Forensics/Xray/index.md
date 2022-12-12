@@ -16,7 +16,7 @@ files: ['XRAY-1.pdf']
 >
 > **point:** 25
 >
-> **author:** o
+> **author:** MrSheepSheep
 >
 > **description:**
 >

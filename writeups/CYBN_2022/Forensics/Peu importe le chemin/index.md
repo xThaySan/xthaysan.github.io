@@ -16,7 +16,7 @@ files: ['evilcorp-capture.pcapng']
 >
 > **point:** 150
 >
-> **author:** o
+> **author:** ???
 >
 > **description:**
 >

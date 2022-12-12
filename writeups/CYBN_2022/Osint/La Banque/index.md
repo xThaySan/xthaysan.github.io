@@ -16,7 +16,7 @@ files: []
 >
 > **point:** 25
 >
-> **author:** e
+> **author:** L'exploratrice
 >
 > **description:**
 >

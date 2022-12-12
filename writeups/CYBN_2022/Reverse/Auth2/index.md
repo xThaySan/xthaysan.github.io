@@ -16,7 +16,7 @@ files: ['auth2.py']
 >
 > **point:** 25
 >
-> **author:** o
+> **author:** m00n
 >
 > **description:**
 >

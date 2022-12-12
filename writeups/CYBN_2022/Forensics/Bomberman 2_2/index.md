@@ -16,7 +16,7 @@ files: ['chall_partie_deux.zip']
 >
 > **point:** 50
 >
-> **author:** e
+> **author:** Marie-Jeanne
 >
 > **description:**
 >

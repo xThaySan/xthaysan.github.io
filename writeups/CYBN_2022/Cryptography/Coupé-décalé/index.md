@@ -16,7 +16,7 @@ files: ['coupe_decale.png']
 >
 > **point:** 25
 >
-> **author:** '
+> **author:** Marie-Jeanne
 >
 > **description:**
 >

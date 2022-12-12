@@ -16,7 +16,7 @@ files: ['triforce.png']
 >
 > **point:** 50
 >
-> **author:** l
+> **author:** Marie-Jeanne
 >
 > **description:**
 >

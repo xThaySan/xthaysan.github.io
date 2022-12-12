@@ -16,7 +16,7 @@ files: ['chall.rle']
 >
 > **point:** 50
 >
-> **author:** '
+> **author:** Maestran
 >
 > **description:**
 >

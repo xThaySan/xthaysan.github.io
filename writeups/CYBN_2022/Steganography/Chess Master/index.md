@@ -16,7 +16,7 @@ files: ['bestgame.zip']
 >
 > **point:** 25
 >
-> **author:** u
+> **author:** Maestran
 >
 > **description:**
 >

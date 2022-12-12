@@ -16,7 +16,7 @@ files: ['images.zip']
 >
 > **point:** 100
 >
-> **author:** [
+> **author:** m00n
 >
 > **description:**
 >

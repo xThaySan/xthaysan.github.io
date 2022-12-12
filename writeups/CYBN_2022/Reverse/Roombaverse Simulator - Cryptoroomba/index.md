@@ -16,7 +16,7 @@ files: ['Roomba_Simulator_1.0.exe.7z']
 >
 > **point:** 150
 >
-> **author:** n
+> **author:** MrSheepSheep
 >
 > **description:**
 >

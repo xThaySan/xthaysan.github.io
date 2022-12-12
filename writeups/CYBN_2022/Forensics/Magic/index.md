@@ -16,7 +16,7 @@ files: ['catz.zip']
 >
 > **point:** 50
 >
-> **author:** e
+> **author:** Maestran
 >
 > **description:**
 >

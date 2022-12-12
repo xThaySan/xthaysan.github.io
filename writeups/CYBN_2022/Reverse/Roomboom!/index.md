@@ -16,7 +16,7 @@ files: ['Roomboom.exe']
 >
 > **point:** 200
 >
-> **author:** '
+> **author:** ekt0
 >
 > **description:**
 >

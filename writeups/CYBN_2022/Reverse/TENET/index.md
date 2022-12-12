@@ -16,7 +16,7 @@ files: ['TE.NET.exe']
 >
 > **point:** 200
 >
-> **author:** "
+> **author:** Cybiosity
 >
 > **description:**
 >

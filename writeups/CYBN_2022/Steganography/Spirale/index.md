@@ -16,7 +16,7 @@ files: ['chall_stegano.png']
 >
 > **point:** 25
 >
-> **author:** t
+> **author:** Marie-Jeanne
 >
 > **description:**
 >

@@ -16,7 +16,7 @@ files: ['bretagne.jpg']
 >
 > **point:** 25
 >
-> **author:** a
+> **author:** Maestran
 >
 > **description:**
 >

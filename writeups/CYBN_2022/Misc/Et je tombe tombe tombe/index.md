@@ -16,7 +16,7 @@ files: ['et-je-tombe-tombe-tombe.zip']
 >
 > **point:** 50
 >
-> **author:** [
+> **author:** m00n
 >
 > **description:**
 >

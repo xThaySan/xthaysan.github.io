@@ -16,7 +16,7 @@ files: ['out.txt', 'chall.py']
 >
 > **point:** 100
 >
-> **author:** J
+> **author:** Maestran
 >
 > **description:**
 >

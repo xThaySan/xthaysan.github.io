@@ -16,7 +16,7 @@ files: ['vrrrrm.mp3']
 >
 > **point:** 50
 >
-> **author:** [
+> **author:** m00n
 >
 > **description:**
 >

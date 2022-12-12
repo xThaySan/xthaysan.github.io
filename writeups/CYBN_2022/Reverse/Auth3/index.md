@@ -16,7 +16,7 @@ files: ['auth3']
 >
 > **point:** 200
 >
-> **author:** o
+> **author:** m00n
 >
 > **description:**
 >
