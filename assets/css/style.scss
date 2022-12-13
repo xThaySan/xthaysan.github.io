@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";;
+
+ul li.challenge {
+	list-style: "❌ ";
+}
+
+ul li.challenge.done {
+	list-style: "✔️ ";
+}
