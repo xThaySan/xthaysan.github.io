@@ -30,6 +30,14 @@ files: []
 >
 > 
 
-## Coming Soon...
+## Solutions
+
+Malheureusement je n'ai aucune capture d'écran du challenge mais voici la logique :
+
+En se connectant au routeur en wifi et en écoutant le traffic dessus via Wireshark, on pouvait constater des paquets sur le canal broadcast tapant sur différents ports.
+
+Les ports tapés par les requêtes correspondaient simplement à la valeur ASCII des lettres du flag.
+
+**`FLAG : ?`**
 
 {% endraw %}

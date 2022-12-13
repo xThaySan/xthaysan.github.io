@@ -33,10 +33,10 @@ Au cours de cet événement marathon, les étudiants de l’école participeront
 - {:.challenge} [Xray](/writeups/CYBN_2022/Forensics/Xray/)
 
 ## Hardware
-- {:.challenge} [class4](/writeups/CYBN_2022/Hardware/class4/)
-- {:.challenge} [Identify 1/3](/writeups/CYBN_2022/Hardware/Identify%201_3/)
-- {:.challenge} [Find Me 2/3](/writeups/CYBN_2022/Hardware/Find%20Me%202_3/)
-- {:.challenge} [Yo listen 3/3](/writeups/CYBN_2022/Hardware/Yo%20listen%203_3/)
+- {:.challenge.done} [class4](/writeups/CYBN_2022/Hardware/class4/)
+- {:.challenge.done} [Identify 1/3](/writeups/CYBN_2022/Hardware/Identify%201_3/)
+- {:.challenge.done} [Find Me 2/3](/writeups/CYBN_2022/Hardware/Find%20Me%202_3/)
+- {:.challenge.done} [Yo listen 3/3](/writeups/CYBN_2022/Hardware/Yo%20listen%203_3/)
 
 ## MISC
 - {:.challenge} [Et je tombe tombe tombe ...](/writeups/CYBN_2022/Misc/Et%20je%20tombe%20tombe%20tombe/)
