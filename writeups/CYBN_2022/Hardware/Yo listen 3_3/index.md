@@ -30,7 +30,7 @@ files: []
 >
 > 
 
-## Solutions
+## Solution
 
 Malheureusement je n'ai aucune capture d'écran du challenge mais voici la logique :
 
