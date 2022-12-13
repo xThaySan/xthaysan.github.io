@@ -61,7 +61,7 @@ Au cours de cet événement marathon, les étudiants de l’école participeront
 - {:.challenge} [Maze - Indiana Jones](/writeups/CYBN_2022/Programmation/Maze%20-%20Indiana%20Jones/)
 - {:.challenge.done} [Repeat](/writeups/CYBN_2022/Programmation/Repeat/)
 - {:.challenge.done} [Startup](/writeups/CYBN_2022/Programmation/Startup/)
-- {:.challenge} [Timing](/writeups/CYBN_2022/Programmation/Timing/)
+- {:.challenge.done} [Timing](/writeups/CYBN_2022/Programmation/Timing/)
 
 ## pwn
 - {:.challenge} [Functions madness](/writeups/CYBN_2022/pwn%20-%20Exploitation%20de%20binaires/Functions%20madness/)
