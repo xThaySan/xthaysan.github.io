@@ -28,6 +28,24 @@ files: []
 >
 > 
 
-## Coming Soon...
+## Solution
+
+Un simple netcat suffit mais voici la solution en python :
+
+```python
+import socket
+
+HOST = "10.242.0.1"
+PORT = 10001
+
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+s.connect((HOST, PORT))
+
+print(s.recv(1024).decode())
+# C'était facile non ? Le flag est :
+# CYBN{Welcome!}
+```
+
+**`FLAG : CYBN{Welcome!}`**
 
 {% endraw %}
