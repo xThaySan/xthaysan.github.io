@@ -13,7 +13,7 @@ Quel que soit le niveau académique ou la formation, la cyber s’adresse à tou
 Au cours de cet événement marathon, les étudiants de l’école participeront à des challenges en cyber, assisteront à des conférences ou à des démos techniques et se formeront, en groupe, aux techniques de pentest (test d’intrusion). La CyberNight Efrei vise deux objectifs majeurs. En premier lieu, et dans la mesure où la cybersécurité est l’affaire de tous les professionnels du numérique, une telle opération permet de sensibiliser et de former aux bons réflexes cyber. Ensuite, les épreuves proposées permettront d’identifier les meilleurs étudiants cyber de l’école. Ils rejoindront l’équipe cyber étudiante de l’Efrei et participeront, durant une année entière, à des compétitions proposées par des organismes extérieurs à l’école (Le Hack, Le FIC,…).
 
 ## Cryptography
-- {:.challenge} [Coupé-décalé](/writeups/CYBN_2022/Cryptography/Coup%C3%A9-d%C3%A9cal%C3%A9/)
+- {:.challenge.done} [Coupé-décalé](/writeups/CYBN_2022/Cryptography/Coup%C3%A9-d%C3%A9cal%C3%A9/)
 - {:.challenge} [ExFILEtration](/writeups/CYBN_2022/Cryptography/ExFILEtration/)
 - {:.challenge} [Il s'est baissé... ou pas](/writeups/CYBN_2022/Cryptography/Il%20s'est%20baiss%C3%A9%20ou%20pas/)
 - {:.challenge} [J'ai pas ROTé](/writeups/CYBN_2022/Cryptography/J'ai%20pas%20ROT%C3%A9/)
