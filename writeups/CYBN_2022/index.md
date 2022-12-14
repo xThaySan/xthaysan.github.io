@@ -87,7 +87,7 @@ Au cours de cet événement marathon, les étudiants de l’école participeront
 - {:.challenge} [Spirale](/writeups/CYBN_2022/Steganography/Spirale/)
 
 ## Web
-- {:.challenge} [Roombaverse - Ah bah c'est du propre](/writeups/CYBN_2022/Web/Roombaverse%20-%20Ah%20bah%20c'est%20du%20propre/)
+- {:.challenge.done} [Roombaverse - Ah bah c'est du propre](/writeups/CYBN_2022/Web/Roombaverse%20-%20Ah%20bah%20c'est%20du%20propre/)
 - {:.challenge.done} [Roombaverse - Cooking Roomba](/writeups/CYBN_2022/Web/Roombaverse%20-%20Cooking%20Roomba/)
 - {:.challenge} [Roombaverse - Leaderboard](/writeups/CYBN_2022/Web/Roombaverse%20-%20Leaderboard/)
 - {:.challenge} [Roombaverse - Live](/writeups/CYBN_2022/Web/Roombaverse%20-%20Live/)
