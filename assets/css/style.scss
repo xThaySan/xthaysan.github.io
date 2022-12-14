@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";;
 
+#buttons * {
+	margin-right: 10px;
+}
+
 ul li.challenge {
 	list-style: "❌ ";
 }
