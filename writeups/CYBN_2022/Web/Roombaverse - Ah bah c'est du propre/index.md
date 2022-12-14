@@ -58,7 +58,7 @@ print(uuid1())
 # 073cf7fd-7b14-11ed-7945-01d84137b4c7
 ```
 
-On n'a plus qu'à remplacer les 2 dernières section par celle de notre propre uuid d'authentification *(qui était `5dd841ae-7b2e-11ed-887d-02420a000708`)*.
+On n'a plus qu'à remplacer les 2 dernières sections par celles de notre propre uuid d'authentification *(qui était `5dd841ae-7b2e-11ed-887d-02420a000708`)*.
 
 Le uuid `073cf7fd-7b14-11ed-7945-01d84137b4c7` devient alors **`073cf7fd-7b14-11ed-887d-02420a000708`**. On change notre cookie auth et l'on va dans l'onglet **Mon compte** :
 
