@@ -33,7 +33,7 @@ files: []
 En se rapprochant du point d'accès trouvé dans Identify 1/3, on se retrouvait alors dans la salle des admins.
 
 Sur l'une des tables il y avait un Rasberry PI servant à fournir l'accès et à côté un QRCode.
-![QRcode](_images/qrcode.PNG)
+![QRcode](images/qrcode.PNG)
 
 En déchiffrant le QRcode on obtenait le flag :
 

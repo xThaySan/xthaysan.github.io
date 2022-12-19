@@ -30,13 +30,13 @@ files: []
 
 Comme dit dans la description du challenge, il faut étudier la déconnexion.
 
-![Page de deconnexion](_images/compte.PNG)
+![Page de deconnexion](images/compte.PNG)
 
 Le challenge se passe donc sur la route **/deconnexion** du site **`roombaverse.cybernight-c.tf`**.
 
 En utilisant **PostMan** on peut faire une requête **OPTIONS** sur la route pour connaître les autres méthodes acceptées.
 
-![Requête OPTIONS](_images/options.PNG)
+![Requête OPTIONS](images/options.PNG)
 
 On peut voir dans les headers reçus que la méthode **CLEAN** est acceptée, ce n'est absolument pas une méthode standard. On peut alors la tester en l'écrivant manuellement dans PostMan.
 
@@ -44,15 +44,15 @@ On peut voir dans les headers reçus que la méthode **CLEAN** est acceptée, ce
 
 *`Automatically follow redirects`* est activée :
 
-![Automatically follow redirects setting](_images/redirect.PNG)
+![Automatically follow redirects setting](images/redirect.PNG)
 
 *`Disable cookie jar`* est désactivé :
 
-![Disable cookie jar setting](_images/cookies.PNG)
+![Disable cookie jar setting](images/cookies.PNG)
 
 Il ne reste plus qu'à faire la requête **CLEAN** et l'on recevra le flag dans un toast :
 
-![Flag](_images/flag.PNG)
+![Flag](images/flag.PNG)
 
 **`FLAG : CYBN{VVvvvVVvvVvvVvvvvvvVVVVVV}`**
 

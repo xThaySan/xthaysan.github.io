@@ -29,10 +29,10 @@ files: ['class4.gcode']
 Un fichier GCode est fourni, on a simplement à l'ouvrir dans un viewer pour voir les déplacements effectués. Ici j'utilise **[ncviewer](https://ncviewer.com)**.
 
 Un dessin se forme grâce au GCode :
-![GCode global](_images/global.PNG)
+![GCode global](images/global.PNG)
 
 Si l'on regarde au pied du sapin, on voit le flag :
-![GCode flag](_images/flag.PNG)
+![GCode flag](images/flag.PNG)
 
 **`FLAG : CYBN{mU17Y_14y3r}`**
 

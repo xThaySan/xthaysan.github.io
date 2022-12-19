@@ -35,7 +35,7 @@ files: []
 ## Solution
 
 En se baladant dans le bâtiment, un WIFI étrange apparassait :
-![Liste des points wifi](_images/wifi.PNG)
+![Liste des points wifi](images/wifi.PNG)
 
 En décodant `Q1lCTntjYV9jYXB0ZT99IAo=` depuis la base 64, on obtient le flag.
 

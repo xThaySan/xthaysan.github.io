@@ -28,6 +28,8 @@ files: ['triforce.png']
 >
 > 
 
-## Coming Soon...
+## Solution
+
+
 
 {% endraw %}
