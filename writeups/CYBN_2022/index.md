@@ -80,8 +80,8 @@ Au cours de cet événement marathon, les étudiants de l’école participeront
 
 ## Steganography
 - {:.challenge} [50 Shades of Stephane Legar](/writeups/CYBN_2022/Steganography/50%20Shades%20of%20Stephane%20Legar/)
-- {:.challenge} [Chess Master](/writeups/CYBN_2022/Steganography/Chess%20Master/)
-- {:.challenge} [Deviens champion sers toi de tout ce que tu as appris](/writeups/CYBN_2022/Steganography/Deviens%20champion%20sers%20toi%20de%20tout%20ce%20que%20tu%20as%20appris/)
+- {:.challenge.done} [Chess Master](/writeups/CYBN_2022/Steganography/Chess%20Master/)
+- {:.challenge.done} [Deviens champion sers toi de tout ce que tu as appris](/writeups/CYBN_2022/Steganography/Deviens%20champion%20sers%20toi%20de%20tout%20ce%20que%20tu%20as%20appris/)
 - {:.challenge} [Drifting in the bits](/writeups/CYBN_2022/Steganography/Drifting%20in%20the%20bits/)
 - {:.challenge.done} [Pyramide](/writeups/CYBN_2022/Steganography/Pyramide/)
 - {:.challenge.done} [Spirale](/writeups/CYBN_2022/Steganography/Spirale/)

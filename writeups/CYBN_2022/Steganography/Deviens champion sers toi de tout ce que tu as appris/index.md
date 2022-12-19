@@ -74,6 +74,56 @@ files: []
 >
 > 
 
-## Coming Soon...
+## Solution
+
+La plupart des phrases de la conversation contient des noms de pokémon. Le tout premier est **Granivol**.
+
+En cherchant le numéro de ce pokemon dans le pokedex, on voit qu'il en existe plusieurs. Son numéro est dans le pokedex :
+- National : 187
+- Johto : 67
+
+![Granivol dans le Pokedex](images/granivol.png)
+
+Etrangement, **67** est aussi le numéro ASCII de la lettre **`C`**, la première lettre de CYBN{...}.
+
+Regardons pour le dernier pokemon de la conversation : **Goupix**
+Son numéro est le 125 dans le pokedex de Johto des version Or et Argent, mais 127 dans celui de HearthGold et SoulSliver.
+
+![Granivol dans le Pokedex](images/goupix.png)
+
+Le numéro ASCII de **`}`** étant **125**, on sait maintenant qu'il faut utiliser **le Pokedex de Johto de la version Or et Argent**.
+
+Prenons maintenant dans l'ordre la liste des pokémons cités dans la conversation, en comptant deux fois le pokemon lorsqu'il est écrit *"deux Tadmorvs"*, et faisons correspondre leur index pokedex :
+
+```
+Granivol	: 67
+Abra		: 89
+Empiflor	: 66
+Poissirène	: 78
+Snubull		: 123
+Héliatronc	: 103
+Sabelette	: 48
+Tadmorv		: 116
+Tadmorv		: 116
+Insolourdo	: 52
+Nidoran♀	: 95
+Nidorino	: 99
+Insolourdo	: 52
+Tadmorv		: 116
+Nidorino	: 99
+Noeunoeuf	: 104
+Nidoran♀	: 95
+Arbok		: 51
+Aéromite	: 109
+Nidoran♀	: 95
+Insolourdo	: 52
+Mimitoss	: 108
+Mimitoss	: 108
+Goupix		: 125
+```
+
+Maintenant pour chaque index du pokedex obtenu, on prend la lettre correspondante selon la norme ASCII :
+
+**`FLAG : CYBN{g0tt4_c4tch_3m_4ll}`**
 
 {% endraw %}

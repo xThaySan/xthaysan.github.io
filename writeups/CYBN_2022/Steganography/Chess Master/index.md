@@ -24,6 +24,18 @@ files: ['bestgame.zip']
 >
 > 
 
-## Coming Soon...
+## Solution
+
+Le zip contient plusieurs fichiers .pgn. Avec quelques recherches on découvre qu'il s'agit de **Portable Game Notation**, un format standard de codage des parties d'échecs.
+
+En continuant les recherches, on peut voir qu'un outil existe pour cacher du texte dans partie d'échec :
+
+![Recherche d'outil de stéganographie](images/research.png)
+
+Toutes les fichiers sont similaires sauf un se terminant par **{ White resigns. }**. En passant les coups joués dans l'outils, on récupère le flag :
+
+![Utilisation de l'outil](images/unsteg.png)
+
+**`FLAG : CYBN{3ch3c_3t_m4t_du_b3rg3r}`**
 
 {% endraw %}

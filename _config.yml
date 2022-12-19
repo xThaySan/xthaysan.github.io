@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: CTF Write-Up
 description: entièrement en français et réalisé par ThaySan.
+exclude:
+  - writeups/CYBN_2022/Reverse/Roombaverse Simulator - Cryptoroomba/files/Roomba_Simulator_1.0.exe.7z
