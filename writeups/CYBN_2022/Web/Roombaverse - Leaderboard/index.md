@@ -32,7 +32,7 @@ Pour réaliser ce challenge nous allons utiliser la fonction proxy de **Burp**. 
 
 Voici la configuration à faire sur **Burp**, tout se passe dans les options de la partie **Proxy**.
 
-![Configuration du proxy - 1](images/proxy-burp.PNG)
+![Configuration du proxy - 1](_images/proxy-burp.PNG)
 
 Il faut paramétrer :
 
@@ -43,28 +43,28 @@ Il faut paramétrer :
 - **`Force use of TLS`** activé
 - **`Support invisible proxying`** activé
 
-![Configuration du proxy - 1](images/proxy-burp-1.PNG)
-![Configuration du proxy - 1](images/proxy-burp-2.PNG)
+![Configuration du proxy - 1](_images/proxy-burp-1.PNG)
+![Configuration du proxy - 1](_images/proxy-burp-2.PNG)
 
 Une fois cela fait, on vérifie que dans notre fichier **C:/Windows/System32/drivers/etc/host** on a bien mis l'adresse **127.0.0.1** pour toutes les requêtes qui partent sur **roombaverse.cybernight-c.tf**
 
-![Configuration du fichier host](images/host.PNG)
+![Configuration du fichier host](_images/host.PNG)
 
 Maintenant on peut lancer le jeu, le terminer (je renvoie au challenge **[Misc] Roombaverse Simulator - Roomba tricheur** pour savoir comment le terminer) et observer les requêtes passer :
 
-![Configuration du proxy - 1](images/game-success.PNG)
+![Configuration du proxy - 1](_images/game-success.PNG)
 
 Dans l'hitorique du proxy on peut voir une requête sur **`/_set_highscore`** :
 
-![Configuration du proxy - 1](images/burp-request.PNG)
+![Configuration du proxy - 1](_images/burp-request.PNG)
 
 On envoie la requête dans le reapeter de Burp (Clique droit sur la requête > Send to repeater) et l'on modifie les paramètres avec le nom de notre compte :
 
-![Configuration du proxy - 1](images/score-updated.PNG)
+![Configuration du proxy - 1](_images/score-updated.PNG)
 
 Il n'y a plus qu'à se rendre sur notre compte pour récupérer le flag :
 
-![Configuration du proxy - 1](images/flag.PNG)
+![Configuration du proxy - 1](_images/flag.PNG)
 
 **`FLAG : CYBN{Roomba_In_Th3_M1ddle}`**
 

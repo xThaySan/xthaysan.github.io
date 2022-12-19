@@ -4,7 +4,7 @@ layout: default
 
 # EFREI-CyberNight 2022
 
-![Affiche](images/affiche.png)
+![Affiche](_images/affiche.png)
 
 Du 10 au 11 décembre, près de 200 étudiants de l’Efrei participeront à la CyberNight, un rendez-vous unique de la cybersécurité sur le campus.
 
@@ -83,8 +83,8 @@ Au cours de cet événement marathon, les étudiants de l’école participeront
 - {:.challenge} [Chess Master](/writeups/CYBN_2022/Steganography/Chess%20Master/)
 - {:.challenge} [Deviens champion sers toi de tout ce que tu as appris](/writeups/CYBN_2022/Steganography/Deviens%20champion%20sers%20toi%20de%20tout%20ce%20que%20tu%20as%20appris/)
 - {:.challenge} [Drifting in the bits](/writeups/CYBN_2022/Steganography/Drifting%20in%20the%20bits/)
-- {:.challenge} [Pyramide](/writeups/CYBN_2022/Steganography/Pyramide/)
-- {:.challenge} [Spirale](/writeups/CYBN_2022/Steganography/Spirale/)
+- {:.challenge.done} [Pyramide](/writeups/CYBN_2022/Steganography/Pyramide/)
+- {:.challenge.done} [Spirale](/writeups/CYBN_2022/Steganography/Spirale/)
 
 ## Web
 - {:.challenge.done} [Roombaverse - Ah bah c'est du propre](/writeups/CYBN_2022/Web/Roombaverse%20-%20Ah%20bah%20c'est%20du%20propre/)

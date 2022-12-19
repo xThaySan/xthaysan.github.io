@@ -24,6 +24,12 @@ files: ['chall_stegano.png']
 >
 > 
 
-## Coming Soon...
+## Solution
+
+Il faut lire tous les chiffres, majuscules, accolades et underscores dans le sens des aiguilles d'une montre.
+
+![Flag](images/flag.png)
+
+**`FLAG : CYBN{70URN3Z_M4N363}`**
 
 {% endraw %}
