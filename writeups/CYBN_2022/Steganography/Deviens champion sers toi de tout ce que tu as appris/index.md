@@ -76,9 +76,9 @@ files: []
 
 ## Solution
 
-La plupart des phrases de la conversation contient des noms de pokémon. Le tout premier est **Granivol**.
+La plupart des phrases de la conversation contiennent des noms de pokémon. Le tout premier est **Granivol**.
 
-En cherchant le numéro de ce pokemon dans le pokedex, on voit qu'il en existe plusieurs. Son numéro est dans le pokedex :
+En cherchant le numéro de ce pokemon dans le pokedex, on voit qu'il en existe plusieurs. Selon le pokedex, son numéro est :
 - National : 187
 - Johto : 67
 
