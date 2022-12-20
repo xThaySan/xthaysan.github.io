@@ -28,11 +28,11 @@ files: ['bestgame.zip']
 
 Le zip contient plusieurs fichiers .pgn. Avec quelques recherches on découvre qu'il s'agit de **Portable Game Notation**, un format standard de codage des parties d'échecs.
 
-En continuant les recherches, on peut voir qu'un outil existe pour cacher du texte dans partie d'échec :
+En continuant les recherches, on peut voir qu'un outil existe pour cacher du texte dans des parties d'échec :
 
 ![Recherche d'outil de stéganographie](images/research.png)
 
-Toutes les fichiers sont similaires sauf un se terminant par **{ White resigns. }**. En passant les coups joués dans l'outils, on récupère le flag :
+Tous les fichiers sont similaires sauf un se terminant par **{ White resigns. }**. En passant les coups joués dans l'outils, on récupère le flag :
 
 ![Utilisation de l'outil](images/unsteg.png)
 
