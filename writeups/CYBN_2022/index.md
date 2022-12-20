@@ -39,12 +39,12 @@ Au cours de cet événement marathon, les étudiants de l’école participeront
 - {:.challenge.done} [Yo listen 3/3](/writeups/CYBN_2022/Hardware/Yo%20listen%203_3/)
 
 ## MISC
-- {:.challenge} [Et je tombe tombe tombe ...](/writeups/CYBN_2022/Misc/Et%20je%20tombe%20tombe%20tombe/)
-- {:.challenge} [riGOLe](/writeups/CYBN_2022/Misc/riGOLe/)
-- {:.challenge} [Roombaverse Simulator - Des yeux partout](/writeups/CYBN_2022/Misc/Roombaverse%20Simulator%20-%20Des%20yeux%20partout/)
-- {:.challenge} [Roombaverse Simulator - Roomba tricheur](/writeups/CYBN_2022/Misc/Roombaverse%20Simulator%20-%20Roomba%20tricheur/)
-- {:.challenge} [Survey](/writeups/CYBN_2022/Misc/Survey/)
-- {:.challenge} [Tinder](/writeups/CYBN_2022/Misc/Tinder/)
+- {:.challenge.done} [Et je tombe tombe tombe ...](/writeups/CYBN_2022/Misc/Et%20je%20tombe%20tombe%20tombe/)
+- {:.challenge.done} [riGOLe](/writeups/CYBN_2022/Misc/riGOLe/)
+- {:.challenge.done} [Roombaverse Simulator - Des yeux partout](/writeups/CYBN_2022/Misc/Roombaverse%20Simulator%20-%20Des%20yeux%20partout/)
+- {:.challenge.done} [Roombaverse Simulator - Roomba tricheur](/writeups/CYBN_2022/Misc/Roombaverse%20Simulator%20-%20Roomba%20tricheur/)
+- {:.challenge.done} [Survey](/writeups/CYBN_2022/Misc/Survey/)
+- {:.challenge.done} [Tinder](/writeups/CYBN_2022/Misc/Tinder/)
 
 ## OSINT
 - {:.challenge} [A table](/writeups/CYBN_2022/Osint/A%20table/)
