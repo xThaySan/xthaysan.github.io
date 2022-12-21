@@ -70,8 +70,8 @@ Au cours de cet événement marathon, les étudiants de l’école participeront
 - {:.challenge} [Turducken](/writeups/CYBN_2022/pwn%20-%20Exploitation%20de%20binaires/Turducken/)
 
 ## Reverse
-- {:.challenge} [Auth 1](/writeups/CYBN_2022/Reverse/Auth%201/)
-- {:.challenge} [Auth 2](/writeups/CYBN_2022/Reverse/Auth2/)
+- {:.challenge.done} [Auth 1](/writeups/CYBN_2022/Reverse/Auth%201/)
+- {:.challenge.done} [Auth 2](/writeups/CYBN_2022/Reverse/Auth2/)
 - {:.challenge} [Auth 3](/writeups/CYBN_2022/Reverse/Auth3/)
 - {:.challenge} [I like to mov it mov it](/writeups/CYBN_2022/Reverse/I%20like%20to%20mov%20it%20mov%20it/)
 - {:.challenge} [Roombaverse Simulator - Cryptoroomba](/writeups/CYBN_2022/Reverse/Roombaverse%20Simulator%20-%20Cryptoroomba/)
