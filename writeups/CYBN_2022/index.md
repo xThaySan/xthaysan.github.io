@@ -72,11 +72,11 @@ Au cours de cet événement marathon, les étudiants de l’école participeront
 ## Reverse
 - {:.challenge.done} [Auth 1](/writeups/CYBN_2022/Reverse/Auth%201/)
 - {:.challenge.done} [Auth 2](/writeups/CYBN_2022/Reverse/Auth2/)
-- {:.challenge} [Auth 3](/writeups/CYBN_2022/Reverse/Auth3/)
+- {:.challenge.done} [Auth 3](/writeups/CYBN_2022/Reverse/Auth3/)
 - {:.challenge} [I like to mov it mov it](/writeups/CYBN_2022/Reverse/I%20like%20to%20mov%20it%20mov%20it/)
 - {:.challenge} [Roombaverse Simulator - Cryptoroomba](/writeups/CYBN_2022/Reverse/Roombaverse%20Simulator%20-%20Cryptoroomba/)
 - {:.challenge} [Roomboom!](/writeups/CYBN_2022/Reverse/Roomboom!/)
-- {:.challenge} [TENET](/writeups/CYBN_2022/Reverse/TENET/)
+- {:.challenge.done} [TENET](/writeups/CYBN_2022/Reverse/TENET/)
 
 ## Steganography
 - {:.challenge.done} [50 Shades of Stephane Legar](/writeups/CYBN_2022/Steganography/50%20Shades%20of%20Stephane%20Legar/)
