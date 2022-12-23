@@ -14,7 +14,7 @@ Au cours de cet événement marathon, les étudiants de l’école participeront
 
 ## Cryptography
 - {:.challenge.done} [Coupé-décalé](/writeups/CYBN_2022/Cryptography/Coup%C3%A9-d%C3%A9cal%C3%A9/)
-- {:.challenge} [ExFILEtration](/writeups/CYBN_2022/Cryptography/ExFILEtration/)
+- {:.challenge.done} [ExFILEtration](/writeups/CYBN_2022/Cryptography/ExFILEtration/)
 - {:.challenge.done} [Il s'est baissé... ou pas](/writeups/CYBN_2022/Cryptography/Il%20s'est%20baiss%C3%A9%20ou%20pas/)
 - {:.challenge.done} [J'ai pas ROTé](/writeups/CYBN_2022/Cryptography/J'ai%20pas%20ROT%C3%A9/)
 - {:.challenge.done} [Les Allemands... Mais oui ! Les Allemands !](/writeups/CYBN_2022/Cryptography/Les%20Allemands%20Mais%20oui%20!%20%20%20Les%20Allemands%20!/)
