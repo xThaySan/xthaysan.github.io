@@ -58,12 +58,12 @@ Direction **[Yandex](https://yandex.com/images/)** où l'on lance une recherche 
 
 ![Recherche de l'hôtel sur Google](images/hotel.png)
 
-Maintenant rendez-vous sur **[leur site]()** dans l'onglet **Calendrier**, on voit que la prochaine ouverture est le **`8 Avril`** :
+Maintenant rendez-vous sur **[leur site]()** dans l'onglet **Calendrier**, on voit que la prochaine ouverture de l'hôtel est le **`7 Avril`** :
 
 ![Calendrier du parc](images/ouverture.png)
 
 On peut maintenant construire notre flag :
 
-**`FLAG : CYBN{hotel-des-pirates_08/04/2023}`**
+**`FLAG : CYBN{hotel-des-pirates_07/04/2023}`**
 
 {% endraw %}
