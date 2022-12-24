@@ -22,15 +22,15 @@ Au cours de cet événement marathon, les étudiants de l’école participeront
 
 
 ## Forensics
-- {:.challenge} [Bomberman 1/2](/writeups/CYBN_2022/Forensics/Bomberman%201_2/)
-- {:.challenge} [Bomberman 2/2](/writeups/CYBN_2022/Forensics/Bomberman%202_2/)
-- {:.challenge} [Magic](/writeups/CYBN_2022/Forensics/Magic/)
-- {:.challenge} [Peu importe le chemin](/writeups/CYBN_2022/Forensics/Peu%20importe%20le%20chemin/)
-- {:.challenge} [Sniff Sniff](/writeups/CYBN_2022/Forensics/Sniff%20Sniff/)
-- {:.challenge} [Souvenir](/writeups/CYBN_2022/Forensics/Souvenir/)
+- {:.challenge.done} [Bomberman 1/2](/writeups/CYBN_2022/Forensics/Bomberman%201_2/)
+- {:.challenge.done} [Bomberman 2/2](/writeups/CYBN_2022/Forensics/Bomberman%202_2/)
+- {:.challenge.done} [Magic](/writeups/CYBN_2022/Forensics/Magic/)
+- {:.challenge.done} [Peu importe le chemin](/writeups/CYBN_2022/Forensics/Peu%20importe%20le%20chemin/)
+- {:.challenge.done} [Sniff Sniff](/writeups/CYBN_2022/Forensics/Sniff%20Sniff/)
+- {:.challenge.done} [Souvenir](/writeups/CYBN_2022/Forensics/Souvenir/)
 - {:.challenge} [Thoses pesky sysadmins](/writeups/CYBN_2022/Forensics/thoses%20pesky%20sysadmins/)
 - {:.challenge} [Vmdkk](/writeups/CYBN_2022/Forensics/Vmdkk/)
-- {:.challenge} [Xray](/writeups/CYBN_2022/Forensics/Xray/)
+- {:.challenge.done} [Xray](/writeups/CYBN_2022/Forensics/Xray/)
 
 ## Hardware
 - {:.challenge.done} [class4](/writeups/CYBN_2022/Hardware/class4/)

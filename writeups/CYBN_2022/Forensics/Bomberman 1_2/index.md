@@ -36,6 +36,18 @@ files: ['chall_partie_une.zip']
 >
 > 
 
-## Coming Soon...
+## Solution
+
+L'archive contient des fichier **`.eml`**, rendez-vous donc sur un viewer en ligne. Ici j'ai juste cherché *eml viewer online* et je suis tombé sur **[Encryptomatic](www.encryptomatic.com/viewer/)**.
+
+En lisant chaque fichier, on peut voir en faisant attention que dans **`Retour de vacances (2) 2022-12-09T19_28_34+01_00.eml`** il y a un message caché :
+
+![Contenu du mail](images/mail.png)
+
+En prenant toutes les premières lettres de chaque ligne on peut lire **`BOMBE PRETE`** .
+
+On connaît donc l'email de l'acolyte et son message.
+
+**`FLAG : CYBN{jeanne.kins@proton.me_bombe-prete}`**
 
 {% endraw %}
