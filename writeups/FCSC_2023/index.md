@@ -13,7 +13,7 @@ Le FCSC est un CTF de type "jeopardy", avec cette année une soixantaine d'épre
 Retrouvez toutes les infos sur le site de l'ANSSI.
 
 ## Teasing
-- [Challenge de teasing](./teasing/)
+- {:.challenge.done} [Challenge de teasing](./teasing/)
 
 ## Cryptographie
 

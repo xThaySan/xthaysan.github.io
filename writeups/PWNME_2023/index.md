@@ -22,9 +22,9 @@ Année 2600, John D. est un nostalgique. Il s'amuse à jouer sur des jeux vieux 
 - {:.challenge} [Like a Whispering Entropy]()
 
 ## Forensics
-- {:.challenge} [kNOCk kNOCk]()
+- {:.challenge.done} [kNOCk kNOCk](./Forensic/kNOCk%20kNOCk/)
 - {:.challenge} [Silver]()
-- {:.challenge} [Free flag]()
+- {:.challenge.done} [Free flag](./Forensic/Free%20flag/)
 - {:.challenge} [TimmyIsDump]()
 - {:.challenge} [Compromised]()
 
@@ -50,11 +50,11 @@ Année 2600, John D. est un nostalgique. Il s'amuse à jouer sur des jeux vieux 
 - {:.challenge} [Nanobits]()
 
 ## Web
-- {:.challenge} [Tree Viewer]()
-- {:.challenge} [QRDoor Code]()
-- {:.challenge} [Beat me!]()
+- {:.challenge.done} [Tree Viewer](./Web/Tree%20Viewer/)
+- {:.challenge.done} [QRDoor Code](./Web/QRDoor%20Code/)
+- {:.challenge.done} [Beat me!](./Web/Beat%20me!/)
 - {:.challenge} [Anozer Blog]()
-- {:.challenge} [Nestapp]()
+- {:.challenge.done} [Nestapp](./Web/Nestapp/)
 
 <br>
 <br>
