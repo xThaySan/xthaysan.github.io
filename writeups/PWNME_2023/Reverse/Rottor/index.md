@@ -159,7 +159,7 @@ J'ai commencé par un petit renommage classique avec les données que l'on conna
 Alors, cette fonction récupère l'input et le découpe 3 caractères par 3. Ces groupes doivent avoir cette forme :
 
 - Le premier est soit un 'L' soit un 'R'
-- Les deux suivants sont des chiffrent et forment le nombre de rotations à faire 
+- Les deux suivants sont des chiffres et forment le nombre de rotations à faire 
 
 Les deux chiffres passent dans la fonctions **`atoi`**, qui permet de les transformer en entier (*ex: '12' deviendra 12*). 
 
