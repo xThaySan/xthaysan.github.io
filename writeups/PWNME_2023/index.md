@@ -45,7 +45,7 @@ Année 2600, John D. est un nostalgique. Il s'amuse à jouer sur des jeux vieux 
 ## Reverse
 - {:.challenge.done} [C Stands For C](./Reverse/C%20Stands%20For%20C/)
 - {:.challenge.done} [Xoxor](./Reverse/Xoxor/)
-- {:.challenge} [Rottor]()
+- {:.challenge.done} [Rottor](./Reverse/Rottor/)
 - {:.challenge.done} [Baby Babel](./Reverse/Baby%20Babel/)
 - {:.challenge} [Nanobits]()
 
