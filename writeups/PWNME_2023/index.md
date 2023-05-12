@@ -53,7 +53,7 @@ Année 2600, John D. est un nostalgique. Il s'amuse à jouer sur des jeux vieux 
 - {:.challenge.done} [Tree Viewer](./Web/Tree%20Viewer/)
 - {:.challenge.done} [QRDoor Code](./Web/QRDoor%20Code/)
 - {:.challenge.done} [Beat me!](./Web/Beat%20me!/)
-- {:.challenge} [Anozer Blog]()
+- {:.challenge.done} [Anozer Blog](./Web/Anozer%20Blog/)
 - {:.challenge.done} [Nestapp](./Web/Nestapp/)
 
 <br>
