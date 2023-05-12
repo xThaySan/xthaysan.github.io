@@ -19,7 +19,7 @@ Année 2600, John D. est un nostalgique. Il s'amuse à jouer sur des jeux vieux 
 - {:.challenge.done} [Gib me Initials of Victor](./Crypto/Gib%20me%20Initials%20of%20Victor/)
 - {:.challenge.done} [Scream Like Viking](./Crypto/Scream%20Like%20Viking/)
 - {:.challenge.done} [Such Privacy](./Crypto/Such%20Privacy/)
-- {:.challenge} [Like a Whispering Entropy]()
+- {:.challenge.done} [Like a Whispering Entropy](./Crypto/Like%20a%20Whispering%20Entropy/)
 
 ## Forensics
 - {:.challenge.done} [kNOCk kNOCk](./Forensic/kNOCk%20kNOCk/)
