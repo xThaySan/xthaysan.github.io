@@ -49,7 +49,7 @@ Comment l'exploiter ? Il faut que **`article_name`** soit le **`path`** de notre
 
 Pour arriver à cette fonction, il faut passer par la création d'un article :
 
-![](images/create.png)
+![Code de la fonction 'create_article'](images/create_article.png)
 
 Ok, à priori on peut modifier n'importe quelle variable, mais sur laquelle le faire ?
 
@@ -57,11 +57,11 @@ L'objectif est de lire un fichier local, or on ne peut pas exécuter de commande
 
 En cherchant un peu plus, on tombe sur cette fonction qui permet d'utiliser **`render_template_string`** si le user a la propriété **`seeTemplate`** vraie. Cette fonction permettrai de faire une **SSTI** dans Jinja et donc d'exécuter directement des commandes. 
 
-![](images/render_page.png)
+![Code de la fonction 'render_page'](images/render_page.png)
 
 Et dans le fichier **`users.py`**, on voit qu'un compte admin est automatiquement ajouté avec cette permission.
 
-![](images/init_user.png)
+![Création du compte admin dans l'initialisation de la class Users](images/init_user.png)
 
 Et bien je propose de modifier le secret de la création des tokens d'authentification pour forger nos tokens et se connecter en tant qu'admin pour exécuter notre payload.
 
@@ -86,15 +86,15 @@ path:  __init__.__globals__.__loader__.__init__.__globals__.sys.modules.__main__
 value: myNewSecretKey
 ```
 
-![](images/pollution.png)
+![Envoie du payload pour polluer app.secret_key](images/pollution.png)
 
 Maintenant pour vérifier que la clé a bien été modifiée, on va créer un compte pour obtenir un token :
 
-![](images/create_account.png)
+![Création d'un compte](images/create_account.png)
 
 Puis dans le devtools > Application > Cookie on récupère le token :
 
-![](images/token.png)
+![Récupération du token d'authentification](images/token.png)
 
 
 Avec **[flask-unsign](https://pypi.org/project/flask-unsign/)** on décode le token :
@@ -113,7 +113,7 @@ eyJ1c2VyIjp7InNlZVRlbXBsYXRlIjpmYWxzZSwidXNlcm5hbWUiOiJhZG1pbiJ9fQ.ZF3wdA.Kp-qp6
 
 On remplace notre ancien token par celui que l'on vient de forger et en allant consulter l'article **`welcome`**, on voit bien que l'on est connecté en tant qu'admin et que le template est interprété :
 
-![](images/admin_token.png)
+![Vérification de notre token forgé](images/admin_token.png)
 
 <br>
 
@@ -127,11 +127,11 @@ Pour ça j'utilise **[ce CheatSheet](https://book.hacktricks.xyz/pentesting-web/
 
 Il ne reste plus qu'à créé un article avec ce content :
 
-![](images/ssti.png)
+![Envoie de notre payload pour SSTI](images/ssti.png)
 
 Et maintenant on consulte l'article :
 
-![](images/flag.png)
+![Récupération du flag](images/flag.png)
 
 **`FLAG : PWNME{de3P_pOL1uTi0n_cAn_B3_D3s7rUctIv3}`**
 
