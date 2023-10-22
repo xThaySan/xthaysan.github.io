@@ -17,15 +17,8 @@ Coorganisé par la Direction Générale de la Sécurité Extérieure et Téléco
 ## Analyse forensique
 - {:.challenge.done} [Le Mystère du roman d'amour](./Analyse_forensique/Le_Mystere_du_roman_d_amour/)
 - {:.challenge.done} [Les Mystères du cluster de la Comtesse de Ségur [1/2]](./Analyse_forensique/Les_Mysteres_du_cluster_de_la_Comtesse_de_Segur_12/)
-- {:.challenge} [Lettres volatiles](./Analyse_forensique/Lettres_volatiles/)
 - {:.challenge} [Note de bas de page](./Analyse_forensique/Note_de_bas_de_page/)
 - {:.challenge.done} [Pêche au livre](./Analyse_forensique/Peche_au_livre/)
-
-## Cloud
-- {:.challenge} [Harpagon et le magot](./Cloud/Harpagon_et_le_magot/)
-- {:.challenge} [Le Cluster de Madame Bovary](./Cloud/Le_Cluster_de_Madame_Bovary/)
-- {:.challenge} [Le Sot](./Cloud/Le_Sot/)
-- {:.challenge} [Les nuages menaçants 1/3](./Cloud/Les_nuages_menacants_13/)
 
 ## Cryptanalyse
 - {:.challenge} [À la fin de l'envoi, je signe !](./Cryptanalyse/A_la_fin_de_l_envoi_je_signe_/)
@@ -71,16 +64,6 @@ Coorganisé par la Direction Générale de la Sécurité Extérieure et Téléco
 - {:.challenge} [Codecoquillage du Vélocipède Mécanique](./Programmation/Codecoquillage_du_Velocipede_Mecanique/)
 - {:.challenge} [Des mots, des mots, des mots](./Programmation/Des_mots_des_mots_des_mots/)
 - {:.challenge} [L'Inondation](./Programmation/L_Inondation/)
-
-## Radio-Fréquences
-- {:.challenge} [Avez-vous vu les cascades du hérisson ?](./Radio-Frequences/Avez-vous_vu_les_cascades_du_herisson_/)
-- {:.challenge} [Ballistic Missile Submarine](./Radio-Frequences/Ballistic_Missile_Submarine/)
-- {:.challenge} [Encore des portes. Un trauma ?](./Radio-Frequences/Encore_des_portes._Un_trauma_/)
-- {:.challenge} [Gestionnaire de perruche de Sparrman](./Radio-Frequences/Gestionnaire_de_perruche_de_Sparrman/)
-- {:.challenge} [Le Plombier du câble](./Radio-Frequences/Le_Plombier_du_cable/)
-- {:.challenge} [Navi](./Radio-Frequences/Navi/)
-- {:.challenge} [Sous son trépas victorieux](./Radio-Frequences/Sous_son_trepas_victorieux/)
-- {:.challenge} [Un réseau sans fil en 1844](./Radio-Frequences/Un_reseau_sans_fil_en_1844/)
 
 ## Renseignement en sources ouvertes
 - {:.challenge} [Chateaubrion Edrabellah : la célèbre figure littéraire française](./Renseignement_en_sources_ouvertes/Chateaubrion_Edrabellah__la_celebre_figure_litteraire_francaise/)
