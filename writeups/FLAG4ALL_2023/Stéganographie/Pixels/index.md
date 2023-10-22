@@ -2,7 +2,7 @@
 layout: default
 type: writeup
 title: Pixels
-category: Stéganographie
+category: StÃ©ganographie
 point: 500
 files: ["Pixels.zip"]
 ---
@@ -10,7 +10,7 @@ files: ["Pixels.zip"]
 {% raw %}
 > **title:** Pixels
 >
-> **category:** Stéganographie
+> **category:** StÃ©ganographie
 >
 > **difficulty:** -
 >

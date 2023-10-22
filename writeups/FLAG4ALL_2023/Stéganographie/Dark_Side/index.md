@@ -2,7 +2,7 @@
 layout: default
 type: writeup
 title: Dark Side
-category: Stéganographie
+category: StÃ©ganographie
 point: 497
 files: ["Chall_Dark_Side.zip"]
 ---
@@ -10,7 +10,7 @@ files: ["Chall_Dark_Side.zip"]
 {% raw %}
 > **title:** Dark Side
 >
-> **category:** Stéganographie
+> **category:** StÃ©ganographie
 >
 > **difficulty:** -
 >
