@@ -25,3 +25,4 @@ Voici la liste de mes Write-Up en classés part CTF :
 * [EFREI-CyberNight 2022](/writeups/CYBN_2022)
 * [FCSC 2023](./writeups/FCSC_2023/)
 * [PwnMe 2023](./writeups/PWNME_2023/)
+* [404CTF 2023](./writeups/404CTF_2023/)
