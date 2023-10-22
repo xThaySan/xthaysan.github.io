@@ -2,7 +2,7 @@
 layout: default
 type: writeup
 title: Gishadb
-category: Réaliste
+category: RÃ©aliste
 point: 481
 files: []
 ---
@@ -10,7 +10,7 @@ files: []
 {% raw %}
 > **title:** Gishadb
 >
-> **category:** Réaliste
+> **category:** RÃ©aliste
 >
 > **difficulty:** -
 >

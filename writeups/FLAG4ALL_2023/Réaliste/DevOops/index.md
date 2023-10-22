@@ -2,7 +2,7 @@
 layout: default
 type: writeup
 title: DevOops
-category: Réaliste
+category: RÃ©aliste
 point: 443
 files: []
 ---
@@ -10,7 +10,7 @@ files: []
 {% raw %}
 > **title:** DevOops
 >
-> **category:** Réaliste
+> **category:** RÃ©aliste
 >
 > **difficulty:** -
 >
