@@ -28,6 +28,41 @@ files: ["output.txt", "source.py"]
 
 ## Solution
 
-**`FLAG : 404CTF{}`**
+La clé utilisé fait 6 octets.
+
+C'est un XOR qui est fait entre la clé et le flag, donc c'est réversible.
+
+On connaît les 5 premiers caractères du flag et le résultat du XOR, donc on peut en déduire les 5 premières octets de la clé.
+
+Sauf que le flag fait 30 caractères (soit 5 fois la clé) et l'on connaît également le dernier caractère du flag, donc on peut en déduire le dernier octet de la clé.
+
+![Diagramme d'explication](./_images/diagramme.png)
+
+En Python :
+
+```python
+from os import urandom
+
+
+def xor(msg, key):
+	return bytes([char^key[i%len(key)] for i, char in enumerate(msg)])
+
+
+flag = "FLAG{" + urandom(12).hex() + "}"
+cipher = bytes.fromhex(open("output.txt").read())
+
+# 5 premiers octets
+key = xor(flag[:5].encode(), cipher[:5])
+# dernier octet
+key += xor(flag[-1].encode(), bytes([cipher[-1]]))
+
+print(xor(cipher, key).decode())
+```
+
+```
+FLAG{720b1f06572a3c7335bde6d1}
+```
+
+**`FLAG : FLAG{720b1f06572a3c7335bde6d1}`**
 
 {% endraw %}

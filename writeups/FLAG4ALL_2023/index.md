@@ -19,13 +19,13 @@ Il y aura des lots pour les 5 premiers du CTF.
 - {:.challenge} [Free Win](./Bonus/Free_Win/)
 
 ## Crypto
-- {:.challenge} [AES IV](./Crypto/AES_IV/)
-- {:.challenge} [Crypt My Loop](./Crypto/Crypt_My_Loop/)
+- {:.challenge.done} [AES IV](./Crypto/AES_IV/)
+- {:.challenge.done} [Crypt My Loop](./Crypto/Crypt_My_Loop/)
 - {:.challenge} [Galois](./Crypto/Galois/)
-- {:.challenge} [Kentucky Fried Chicken](./Crypto/Kentucky_Fried_Chicken/)
+- {:.challenge.done} [Kentucky Fried Chicken](./Crypto/Kentucky_Fried_Chicken/)
 - {:.challenge} [RoScA](./Crypto/RoScA/)
-- {:.challenge} [RSA Primes](./Crypto/RSA_Primes/)
-- {:.challenge} [XOR](./Crypto/XOR/)
+- {:.challenge.done} [RSA Primes](./Crypto/RSA_Primes/)
+- {:.challenge.done} [XOR](./Crypto/XOR/)
 
 ## Forensic
 - {:.challenge} [HeadShot](./Forensic/HeadShot/)
