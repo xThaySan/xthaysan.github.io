@@ -60,6 +60,6 @@ files: ['404CTF_NotreModelClass.py', '404_model.pth']
 ## Solution
 
 
-**`FLAG : 404CTF{}`**
+<span class="flag">FLAG : 404CTF{}</span>
 
 {% endraw %}

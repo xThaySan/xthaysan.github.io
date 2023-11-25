@@ -231,6 +231,6 @@ On voit qu'un panneau admin est disponible, en s'y rendant on trouve le flag :
 
 <br>
 
-**`FLAG : 404CTF{B3w4Re_th3_d3STruct1v3s_Qu0tes}`**
+<span class="flag">FLAG : 404CTF{B3w4Re_th3_d3STruct1v3s_Qu0tes}</span>
 
 {% endraw %}

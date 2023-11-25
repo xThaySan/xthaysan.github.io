@@ -66,6 +66,6 @@ files: ['verificateur.py', 'chat.jpg']
 ## Solution
 
 
-**`FLAG : 404CTF{}`**
+<span class="flag">FLAG : 404CTF{}</span>
 
 {% endraw %}

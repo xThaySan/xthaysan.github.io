@@ -295,6 +295,6 @@ On trouve donc : **`barjavelmaassassine`** (*Barjavel m'a assassiné*)
 
 <br>
 
-**`FLAG : 404CTF{barjavelmaassassine}`**
+<span class="flag">FLAG : 404CTF{barjavelmaassassine}</span>
 
 {% endraw %}

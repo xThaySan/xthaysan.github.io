@@ -71,6 +71,6 @@ Si l'on télécharge le fichier, à l'intérieur on trouvera **`flag.txt`**
 
 <br>
 
-**`FLAG : 404CTF{K8S_checkpoints_utile_pour_le_forensic}`**
+<span class="flag">FLAG : 404CTF{K8S_checkpoints_utile_pour_le_forensic}</span>
 
 {% endraw %}

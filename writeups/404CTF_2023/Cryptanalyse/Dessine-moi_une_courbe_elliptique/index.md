@@ -186,6 +186,6 @@ print(flag)
 
 <br>
 
-**`FLAG : 404CTF{70u735_l35_gr4nd35_p3r50nn3s_0nt_d_@b0rd_373_d35_3nf4n7s}`**
+<span class="flag">FLAG : 404CTF{70u735_l35_gr4nd35_p3r50nn3s_0nt_d_@b0rd_373_d35_3nf4n7s}</span>
 
 {% endraw %}

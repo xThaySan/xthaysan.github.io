@@ -352,6 +352,6 @@ class Challenge:
 Notre chiffrement à l'air de fonctionner également avec plus de 3 lettres !
 
 
-**`FLAG : 404CTF{}`**
+<span class="flag">FLAG : 404CTF{}</span>
 
 {% endraw %}

@@ -76,6 +76,6 @@ print(a85decode(text).decode())
 
 <br>
 
-**`FLAG : 404CTF{M4igr3t_D3_c4naRd}`**
+<span class="flag">FLAG : 404CTF{M4igr3t_D3_c4naRd}</span>
 
 {% endraw %}

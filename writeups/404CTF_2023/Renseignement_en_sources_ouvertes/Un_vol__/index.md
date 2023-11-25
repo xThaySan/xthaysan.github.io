@@ -30,6 +30,6 @@ files: ['Arsene_01.png', 'Arsene_02.png', 'Arsene_03.png', 'Arsene_04.png', 'Ars
 ## Solution
 
 
-**`FLAG : 404CTF{}`**
+<span class="flag">FLAG : 404CTF{}</span>
 
 {% endraw %}

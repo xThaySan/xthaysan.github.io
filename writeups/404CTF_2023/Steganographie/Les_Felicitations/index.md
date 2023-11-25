@@ -67,6 +67,6 @@ Pour chaque paragraphe il faut prendre :
 
 ![Lettres du flag mises en valeur](./images/flag.png)
 
-**`FLAG : 404CTF{TrèsBienJoué}`**
+<span class="flag">FLAG : 404CTF{TrèsBienJoué}</span>
 
 {% endraw %}

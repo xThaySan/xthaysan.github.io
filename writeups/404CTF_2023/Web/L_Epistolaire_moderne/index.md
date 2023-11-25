@@ -79,6 +79,6 @@ Le flag se trouve à l'intérieur :
 
 <br>
 
-**`FLAG : 404CTF{L34k_d3_C00k13s_s3cr3ts}`**
+<span class="flag">FLAG : 404CTF{L34k_d3_C00k13s_s3cr3ts}</span>
 
 {% endraw %}

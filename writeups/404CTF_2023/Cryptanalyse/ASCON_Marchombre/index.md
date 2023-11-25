@@ -59,6 +59,6 @@ print(ascon.decrypt(key, nonce, associateddata, ciphertext).decode('latin-1'))
 # Ellana
 ```
 
-**`FLAG : 404CTF{V3r5_l4_lum1èr3.}`**
+<span class="flag">FLAG : 404CTF{V3r5_l4_lum1èr3.}</span>
 
 {% endraw %}

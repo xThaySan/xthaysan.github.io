@@ -51,6 +51,6 @@ Plus qu'à afficher la preview de l'image :
 
 <br>
 
-**`FLAG : 404CTF{345Y_W1r35h4rK}`**
+<span class="flag">FLAG : 404CTF{345Y_W1r35h4rK}</span>
 
 {% endraw %}

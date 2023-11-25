@@ -38,6 +38,6 @@ files: ['shellcode_my_vm_redacted.vmr', 'vm']
 ## Solution
 
 
-**`FLAG : 404CTF{}`**
+<span class="flag">FLAG : 404CTF{}</span>
 
 {% endraw %}

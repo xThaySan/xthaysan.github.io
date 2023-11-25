@@ -36,6 +36,6 @@ files: ['vue_sur_un_etrange_tableau', 'verso.txt']
 ## Solution
 
 
-**`FLAG : 404CTF{}`**
+<span class="flag">FLAG : 404CTF{}</span>
 
 {% endraw %}

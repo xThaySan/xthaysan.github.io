@@ -47,6 +47,6 @@ De là on en déduit le reste de la phrase et que donc :
 
 ![Chiffres convertis en caractères - étape 2](./images/step2.png)
 
-**`FLAG : 404CTF{la_vie_en_couleurs}`**
+<span class="flag">FLAG : 404CTF{la_vie_en_couleurs}</span>
 
 {% endraw %}

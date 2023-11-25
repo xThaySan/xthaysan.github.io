@@ -102,6 +102,6 @@ with open('decrypted.png', 'wb') as f:
 
 <br>
 
-**`FLAG : 404CTF{1g0rfu4v3rt1Env4ut2}`**
+<span class="flag">FLAG : 404CTF{1g0rfu4v3rt1Env4ut2}</span>
 
 {% endraw %}

@@ -57,6 +57,6 @@ Direction **[CyberChef](https://gchq.github.io/CyberChef/#recipe=Substitute('CEL
 
 Avec notre première hypothèse, on obtient : **`FACILELEMORSE`** 
 
-**`FLAG : 404CTF{facilelemorse}`**
+<span class="flag">FLAG : 404CTF{facilelemorse}</span>
 
 {% endraw %}

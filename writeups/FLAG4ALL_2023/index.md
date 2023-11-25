@@ -4,7 +4,7 @@ layout: default
 
 # Flag4All CTF 2023
 
-![Affiche](_images/affiche.png)
+![Affiche](images/affiche.png)
 
 Début : 21/10/2023 à 14h , durée : 24H.
 

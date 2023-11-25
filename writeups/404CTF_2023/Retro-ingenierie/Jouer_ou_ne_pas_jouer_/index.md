@@ -38,6 +38,6 @@ files: ['S4v3Unl0ck3r.nro']
 ## Solution
 
 
-**`FLAG : 404CTF{}`**
+<span class="flag">FLAG : 404CTF{}</span>
 
 {% endraw %}

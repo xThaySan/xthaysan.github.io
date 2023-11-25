@@ -41,6 +41,6 @@ Si l'on prend tous les mots en rouge on obtient **`paris_finlande_15_6_avion`**.
 
 Dans l'énoncé on apprend qu'il n'a pas le permis B, donc ce n'est pas les mots en bleu qui parlent de voiture.
 
-**`FLAG : 404CTF{paris_finlande_15_6_avion}`**
+<span class="flag">FLAG : 404CTF{paris_finlande_15_6_avion}</span>
 
 {% endraw %}

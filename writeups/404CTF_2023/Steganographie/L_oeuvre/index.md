@@ -63,6 +63,6 @@ Ce qui donne :
 
 <br>
 
-**`FLAG : 404CTF{C3z4nne3_ouVr3_To1}`**
+<span class="flag">FLAG : 404CTF{C3z4nne3_ouVr3_To1}</span>
 
 {% endraw %}

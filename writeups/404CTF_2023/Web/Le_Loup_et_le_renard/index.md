@@ -116,6 +116,6 @@ Le flag se trouve au milieu de l'HTML reçu. On aurait également pu désactivé
 
 <br>
 
-**`FLAG : 404CTF{N0_frOn1_3nD_auTh3nt1ficAti0n}`**
+<span class="flag">FLAG : 404CTF{N0_frOn1_3nD_auTh3nt1ficAti0n}</span>
 
 {% endraw %}

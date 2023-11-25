@@ -21,9 +21,10 @@ Une part essentielle des CTF sont les comptes rendus, appelés "**Write-Up**", p
 
 Voici la liste de mes Write-Up classés part CTF :
 
-* [EFREI-CyberNight 2021](/writeups/CYBN_2021)
-* [EFREI-CyberNight 2022](/writeups/CYBN_2022)
+* [EFREI-CyberNight 2021](./writeups/CYBN_2021)
+* [EFREI-CyberNight 2022](./writeups/CYBN_2022)
 * [FCSC 2023](./writeups/FCSC_2023/)
 * [PwnMe 2023](./writeups/PWNME_2023/)
 * [404CTF 2023](./writeups/404CTF_2023/)
 * [Flag4all 2023](./writeups/FLAG4ALL_2023/)
+* [EFREI-CyberNight 2023](./writeups/CYBN_2023/)

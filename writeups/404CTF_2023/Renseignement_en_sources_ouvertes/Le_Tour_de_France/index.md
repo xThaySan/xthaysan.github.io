@@ -32,6 +32,6 @@ files: ['Le_Tour_de_France.png']
 ## Solution
 
 
-**`FLAG : 404CTF{}`**
+<span class="flag">FLAG : 404CTF{}</span>
 
 {% endraw %}

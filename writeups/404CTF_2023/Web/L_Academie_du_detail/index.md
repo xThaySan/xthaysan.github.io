@@ -63,6 +63,6 @@ On envoie ensuite la requête sur **`/membres`** qui est maintenant accessible :
 
 <br>
 
-**`FLAG : 404CTF{JWT_M41_1MP13M3N73_=L35_Pr0813M35}`**
+<span class="flag">FLAG : 404CTF{JWT_M41_1MP13M3N73_=L35_Pr0813M35}</span>
 
 {% endraw %}

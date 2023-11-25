@@ -70,6 +70,6 @@ Seulement, impossible de forger la signature et donc de modifier l'expiration, i
 
 <br>
 
-**`FLAG : 404CTF{l4_p011uti0n_c_3st_m41}`**
+<span class="flag">FLAG : 404CTF{l4_p011uti0n_c_3st_m41}</span>
 
 {% endraw %}

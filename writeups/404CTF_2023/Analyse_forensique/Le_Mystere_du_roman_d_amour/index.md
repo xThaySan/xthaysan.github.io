@@ -118,6 +118,6 @@ On a maintenant tout ce qu'il nous faut :
 - **texte** : 3n_V01L4_Un_Dr0l3_D3_R0m4N
 
 
-**`FLAG : 404CTF{168-~jaqueline/Documents/Livres/404 Histoires d'Amour pour les bibliophiles au coeur d'artichaut/brouillon.txt-jaqueline-aime_ecrire-3n_V01L4_Un_Dr0l3_D3_R0m4N}`**
+<span class="flag">FLAG : 404CTF{168-~jaqueline/Documents/Livres/404 Histoires d'Amour pour les bibliophiles au coeur d'artichaut/brouillon.txt-jaqueline-aime_ecrire-3n_V01L4_Un_Dr0l3_D3_R0m4N}</span>
 
 {% endraw %}

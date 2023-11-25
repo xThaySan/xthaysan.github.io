@@ -52,6 +52,6 @@ files: ['l_etre_ou_le_neant.py']
 ## Solution
 
 
-**`FLAG : 404CTF{}`**
+<span class="flag">FLAG : 404CTF{}</span>
 
 {% endraw %}
