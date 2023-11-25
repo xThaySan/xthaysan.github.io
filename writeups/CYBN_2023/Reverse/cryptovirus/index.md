@@ -84,7 +84,7 @@ Après avoir renommé 2-3 variables, on en déduit que :
 
 (2) On génère l'IV avec 16 bytes aléatoires
 
-(3) On génère l'IV avec 32 bytes aléatoires 
+(3) On génère la clé avec 32 bytes aléatoires 
 
 ### Obtention de l'IV
 
