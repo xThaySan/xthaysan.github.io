@@ -31,5 +31,5 @@ Au cours de cet événement marathon, les étudiants de l’école participeront
 - {:.challenge} [CoronaCheck](./Exploit/coronacheck/)
 
 ## Reverse
-- {:.challenge} [CryptoVirus](./Reverse/cryptovirus/)
-- {:.challenge} [WebChaussette](./Reverse/webchaussette/)
+- {:.challenge.done} [CryptoVirus](./Reverse/cryptovirus/)
+- {:.challenge.done} [WebChaussette](./Reverse/webchaussette/)
