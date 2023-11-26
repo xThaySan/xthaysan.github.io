@@ -17,7 +17,7 @@ Au cours de cet événement marathon, les étudiants de l’école participeront
 
 ## Web
 - {:.challenge} [RainbowStore](./Web/rainbowstore/)
-- {:.challenge} [DoctoLeak](./Web/doctoleak/)
+- {:.challenge.done} [DoctoLeak](./Web/doctoleak/)
 
 ## OSINT
 - {:.challenge} [Invest now !](./Osint/invest_now/)
