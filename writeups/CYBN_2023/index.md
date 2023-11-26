@@ -20,14 +20,14 @@ Au cours de cet événement marathon, les étudiants de l’école participeront
 - {:.challenge.done} [DoctoLeak](./Web/doctoleak/)
 
 ## OSINT
-- {:.challenge} [Invest now !](./Osint/invest_now/)
+- {:.challenge.done} [Invest now !](./Osint/invest_now/)
 
 ## Forensic
 - {:.challenge} [You are mine !](./Forensic/you_are_mine/)
 - {:.challenge} [Memento](./Forensic/memento/)
 
 ## Exploit
-- {:.challenge} [NSA Call Converter](./Exploit/nsa_call_converter/)
+- {:.challenge.done} [NSA Call Converter](./Exploit/nsa_call_converter/)
 - {:.challenge} [CoronaCheck](./Exploit/coronacheck/)
 
 ## Reverse
